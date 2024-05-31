@@ -1,14 +1,28 @@
 [
     {
-        "artist": "QWER | South Korea",
-        "song": "G9JB",
-        "url": "https://www.youtube.com/watch?v=IxOZJqMgaOM",
-        "artist_description": "QWER is a rising star in the pop-rock music scene in South Korea. Their roster is stacked with social media personalities and a former member of a Japanese idol group, but don't let that fool you. Their music is energetic and fun, and it is amazing to watch how quickly each of the members are honing their craft."
+        "artist_image_url": "https://static.wikia.nocookie.net/kpop/images/1/16/QWER_Manito_group_concept_photo_1.png/revision/latest/scale-to-width-down/1000?cb=20240327112956",
+        "artist_name": "QWER",
+        "artist_link": "https://kprofiles.com/qwer-members-profile/",
+        "artist_about": "QWER is a rising star in the pop-rock music scene in South Korea. Their roster is stacked with social media personalities and a former member of a Japanese idol group, but don't let that fool you. Their music is energetic and fun, and it is amazing to watch how quickly each of the members are honing their craft.",
+        "song_title": "G9JB",
+        "song_youtube_url": "https://www.youtube.com/watch?v=IxOZJqMgaOM",
+        "song_spotify_url": "https://open.spotify.com/track/3wfx8yT3cr1gfD1HZp026n?si=2eeba832e8484172",
+        "song_apple_url": "https://music.apple.com/id/song/g9jb/1737366709",
+        "x_url": "https://twitter.com/official_QWER",
+        "instagram_url": "https://www.instagram.com/qwerband_official/",
+        "youtube_url": "https://www.youtube.com/@QWER_Band_official"
     },
     {
-        "artist": "Higuchi Ai | Japan",
-        "song": "コインロッカーにて",
-        "url": "https://www.youtube.com/watch?v=jCVMRVuIsds",
-        "artist_description": "Higuchi Ai first came onto my radar when she performed the 7th ED for anime Attack on Titan. Whether it is a longing sadness or an exhilarating rush, her ability to imbue emotions in her voice is absolutely incredible, you'll have to hear it for yourself to understand."
+        "artist_image_url": "https://static.wikia.nocookie.net/kpop/images/1/16/QWER_Manito_group_concept_photo_1.png/revision/latest/scale-to-width-down/1000?cb=20240327112956",
+        "artist_name": "Higuchi Ai",
+        "artist_link": "https://www.higuchiai.com/",
+        "artist_about": "Higuchi Ai first came onto my radar when she performed the 7th ED for anime Attack on Titan. Whether it is a longing sadness or an exhilarating rush, her ability to imbue emotions in her voice is absolutely incredible, you'll have to hear it for yourself to understand.",
+        "song_title": "コインロッカーにて",
+        "song_youtube_url": "https://www.youtube.com/watch?v=jCVMRVuIsds",
+        "song_spotify_url": "https://open.spotify.com/track/3HDEDWtVoozk7I2yvdoy9m?si=d9cc7b61ad93457f",
+        "song_apple_url": "https://music.apple.com/jp/song/%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E3%81%A6/1390414658",
+        "x_url": "https://x.com/HiguchiAi",
+        "instagram_url": "https://www.instagram.com/higuchiai.1128/",
+        "youtube_url": "https://www.youtube.com/@AiHiguchiOfficial"
     }
 ]

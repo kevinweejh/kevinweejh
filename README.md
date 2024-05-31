@@ -47,7 +47,7 @@
 <div align="center" width="100%">
 <table>
   <tr>
-    
+    <td>
         <p align="center">
             <img src="https%3A%2F%2Fstatic.wikia.nocookie.net%2Fkpop%2Fimages%2F1%2F16%2FQWER_Manito_group_concept_photo_1.png%2Frevision%2Flatest%2Fscale-to-width-down%2F1000%3Fcb%3D20240327112956" alt="QWER Image" width="200"/>
         </p>
@@ -74,7 +74,7 @@
             <a href="https%3A%2F%2Fwww.youtube.com%2F%40QWER_Band_official">YouTube</a>
         </p>
         </details>
-    
+    </td>
   </tr>
 </table>
 </div>

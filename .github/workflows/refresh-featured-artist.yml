@@ -29,4 +29,4 @@ jobs:
                 git config --global user.email 'hello@codebykevin.dev'
                 git add README.md
                 git commit -m "chore: refresh daily featured artist"
-                git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/kevinweejh/kevinweejh.git
+                git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/kevinweejh/kevinweejh.git HEAD:issue-1-fix

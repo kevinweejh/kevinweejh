@@ -1,0 +1,30 @@
+name: Refresh Featured Artist
+
+on: 
+    workflow_dispatch: # Manually trigger workflow, for testing
+    schedule: 
+        - cron: '0 0 * * *' # Run daily at midnight, based on server time
+
+jobs:
+    update-readme:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Set up Node.js
+              uses: actions/setup-node@v4
+              with:
+                node-version: '20'
+
+            - name: Refresh featured artist
+              run: node refresh-featured-artist.js
+              env: 
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              
+            - name: Commit and push changes
+              run: |
+                git add README.md
+                git -c iser.name='kevinweejh' -c user-email='hello@codebykevin.dev' commit -m "chore: refresh daily featured artist"
+                git push

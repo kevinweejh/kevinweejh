@@ -26,5 +26,5 @@ jobs:
             - name: Commit and push changes
               run: |
                 git add README.md
-                git -c iser.name='kevinweejh' -c user-email='hello@codebykevin.dev' commit -m "chore: refresh daily featured artist"
+                git -c user.name='kevinweejh' -c user.email='hello@codebykevin.dev' commit -m "chore: refresh daily featured artist"
                 git push

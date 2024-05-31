@@ -48,33 +48,33 @@
 <table>
   <tr>
     <td>
-        <p align="center">
-            <img src="https%3A%2F%2Fstatic.wikia.nocookie.net%2Fkpop%2Fimages%2F1%2F16%2FQWER_Manito_group_concept_photo_1.png%2Frevision%2Flatest%2Fscale-to-width-down%2F1000%3Fcb%3D20240327112956" alt="QWER Image" width="200"/>
-        </p>
-        <h2 align="center">Artist: <a href="https%3A%2F%2Fkprofiles.com%2Fqwer-members-profile%2F">QWER</a></h2>
-        <h3 align="center">Song: G9JB</h3>
-        <hr>
-        <details>
-        <summary align="center">Tell Me More</summary>
-        <br>
-        <h3 align="center">Why I Love This Artist</h3>
-        <p align="center">
-        QWER%20is%20a%20rising%20star%20in%20the%20pop-rock%20music%20scene%20in%20South%20Korea.%20Their%20roster%20is%20stacked%20with%20social%20media%20personalities%20and%20a%20former%20member%20of%20a%20Japanese%20idol%20group%2C%20but%20don't%20let%20that%20fool%20you.%20Their%20music%20is%20energetic%20and%20fun%2C%20and%20it%20is%20amazing%20to%20watch%20how%20quickly%20each%20of%20the%20members%20are%20honing%20their%20craft.
-        </p>
-        <h3 align="center">Listen to the Song</h3>
-        <p align="center">
-            <a href="https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIxOZJqMgaOM">YouTube</a> | 
-            <a href="https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3wfx8yT3cr1gfD1HZp026n%3Fsi%3D2eeba832e8484172">Spotify</a> | 
-            <a href="https%3A%2F%2Fmusic.apple.com%2Fid%2Fsong%2Fg9jb%2F1737366709">Apple Music</a> 
-        </p>
-        <h3 align="center">Follow QWER</h3>
-        <p align="center">
-            <a href="https%3A%2F%2Ftwitter.com%2Fofficial_QWER">X</a> | 
-            <a href="https%3A%2F%2Fwww.instagram.com%2Fqwerband_official%2F">Instagram</a> | 
-            <a href="https%3A%2F%2Fwww.youtube.com%2F%40QWER_Band_official">YouTube</a>
-        </p>
-        </details>
-    </td>
+    <p align="center">
+        <img src="https%3A%2F%2Fstatic.wikia.nocookie.net%2Fkpop%2Fimages%2F1%2F16%2FQWER_Manito_group_concept_photo_1.png%2Frevision%2Flatest%2Fscale-to-width-down%2F1000%3Fcb%3D20240327112956" alt="Higuchi%20Ai Image" width="200"/>
+    </p>
+    <h2 align="center">Artist: <a href="https%3A%2F%2Fwww.higuchiai.com%2F">Higuchi%20Ai</a></h2>
+    <h3 align="center">Song: %E3%82%B3%E3%82%A4%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E3%81%A6</h3>
+    <hr>
+    <details>
+    <summary align="center">Tell Me More</summary>
+    <br>
+    <h3 align="center">Why I Love This Artist</h3>
+    <p align="center">
+    Higuchi%20Ai%20first%20came%20onto%20my%20radar%20when%20she%20performed%20the%207th%20ED%20for%20anime%20Attack%20on%20Titan.%20Whether%20it%20is%20a%20longing%20sadness%20or%20an%20exhilarating%20rush%2C%20her%20ability%20to%20imbue%20emotions%20in%20her%20voice%20is%20absolutely%20incredible%2C%20you'll%20have%20to%20hear%20it%20for%20yourself%20to%20understand.
+    </p>
+    <h3 align="center">Listen to the Song</h3>
+    <p align="center">
+        <a href="https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjCVMRVuIsds">YouTube</a> | 
+        <a href="https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3HDEDWtVoozk7I2yvdoy9m%3Fsi%3Dd9cc7b61ad93457f">Spotify</a> | 
+        <a href="https%3A%2F%2Fmusic.apple.com%2Fjp%2Fsong%2F%25E3%2582%25B3%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%25E3%2581%25AB%25E3%2581%25A6%2F1390414658">Apple Music</a> 
+    </p>
+    <h3 align="center">Follow QWER</h3>
+    <p align="center">
+        <a href="https%3A%2F%2Fx.com%2FHiguchiAi">X</a> | 
+        <a href="https%3A%2F%2Fwww.instagram.com%2Fhiguchiai.1128%2F">Instagram</a> | 
+        <a href="https%3A%2F%2Fwww.youtube.com%2F%40AiHiguchiOfficial">YouTube</a>
+    </p>
+    </details>
+</td>
   </tr>
 </table>
 </div>

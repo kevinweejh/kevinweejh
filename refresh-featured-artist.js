@@ -2,7 +2,7 @@ const fs = require('fs');
 
 const refreshFeaturedArtist = async () => {
   try {
-    const featuredArtists = require('./data.json');
+    const featuredArtists = require('./assets/data.json');
     const randomIndex = Math.floor(Math.random() * featuredArtists.length);
     const { 
         artist_image_url, 

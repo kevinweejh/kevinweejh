@@ -25,6 +25,8 @@ jobs:
               env: 
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               run: |
+                git config --global user.name 'kevinweejh'
+                git config --global user.email 'hello@codebykevin.dev'
                 git add README.md
-                git -c user.name='kevinweejh' -c user.email='hello@codebykevin.dev' commit -m "chore: refresh daily featured artist"
-                git push
+                git commit -m "chore: refresh daily featured artist"
+                git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/kevinweejh/kevinweejh.git

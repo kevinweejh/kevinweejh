@@ -1,8 +1,12 @@
 const fs = require('fs');
+const path = require('path');
 
 const refreshFeaturedArtist = async () => {
   try {
-    const featuredArtists = require('./assets/data.json');
+    const filePath = path.join(__dirname, 'assets', 'data.json');
+    const fileContent = fs.readFileSync(filePath, 'utf-8');
+    const featuredArtists = JSON.parse(fileContent);
+
     const randomIndex = Math.floor(Math.random() * featuredArtists.length);
     const { 
         artist_image_url, 
@@ -18,36 +22,34 @@ const refreshFeaturedArtist = async () => {
         youtube_url 
     } = featuredArtists[randomIndex];
 
-    const dynamicContent = `
-        <td>
-            <p align="center">
-                <img src="${encodeURIComponent(artist_image_url)}" alt="${encodeURIComponent(artist_name)} Image" width="200"/>
-            </p>
-            <h2 align="center">Artist: <a href="${encodeURIComponent(artist_link)}">${encodeURIComponent(artist_name)}</a></h2>
-            <h3 align="center">Song: ${encodeURIComponent(song_title)}</h3>
-            <hr>
-            <details>
-            <summary align="center">Tell Me More</summary>
-            <br>
-            <h3 align="center">Why I Love This Artist</h3>
-            <p align="center">
-            ${encodeURIComponent(artist_about)}
-            </p>
-            <h3 align="center">Listen to the Song</h3>
-            <p align="center">
-                <a href="${encodeURIComponent(song_youtube_url)}">YouTube</a> | 
-                <a href="${encodeURIComponent(song_spotify_url)}">Spotify</a> | 
-                <a href="${encodeURIComponent(song_apple_url)}">Apple Music</a> 
-            </p>
-            <h3 align="center">Follow QWER</h3>
-            <p align="center">
-                <a href="${encodeURIComponent(x_url)}">X</a> | 
-                <a href="${encodeURIComponent(instagram_url)}">Instagram</a> | 
-                <a href="${encodeURIComponent(youtube_url)}">YouTube</a>
-            </p>
-            </details>
-        </td>
-    `;
+    const dynamicContent = `<td>
+    <p align="center">
+        <img src="${encodeURIComponent(artist_image_url)}" alt="${encodeURIComponent(artist_name)} Image" width="200"/>
+    </p>
+    <h2 align="center">Artist: <a href="${encodeURIComponent(artist_link)}">${encodeURIComponent(artist_name)}</a></h2>
+    <h3 align="center">Song: ${encodeURIComponent(song_title)}</h3>
+    <hr>
+    <details>
+    <summary align="center">Tell Me More</summary>
+    <br>
+    <h3 align="center">Why I Love This Artist</h3>
+    <p align="center">
+    ${encodeURIComponent(artist_about)}
+    </p>
+    <h3 align="center">Listen to the Song</h3>
+    <p align="center">
+        <a href="${encodeURIComponent(song_youtube_url)}">YouTube</a> | 
+        <a href="${encodeURIComponent(song_spotify_url)}">Spotify</a> | 
+        <a href="${encodeURIComponent(song_apple_url)}">Apple Music</a> 
+    </p>
+    <h3 align="center">Follow QWER</h3>
+    <p align="center">
+        <a href="${encodeURIComponent(x_url)}">X</a> | 
+        <a href="${encodeURIComponent(instagram_url)}">Instagram</a> | 
+        <a href="${encodeURIComponent(youtube_url)}">YouTube</a>
+    </p>
+    </details>
+</td>`;
 
     const readmePath = './README.md';
     let readmeContent = fs.readFileSync(readmePath, 'utf-8');

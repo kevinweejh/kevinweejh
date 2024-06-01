@@ -24,29 +24,29 @@ const refreshFeaturedArtist = async () => {
 
     const dynamicContent = `<td>
     <p align="center">
-        <img src="${encodeURIComponent(artist_image_url)}" alt="${encodeURIComponent(artist_name)} Image" width="200"/>
+        <img src="${artist_image_url}" alt="${artist_name} Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="${encodeURIComponent(artist_link)}">${encodeURIComponent(artist_name)}</a></h2>
-    <h3 align="center">Song: ${encodeURIComponent(song_title)}</h3>
+    <h2 align="center">Artist: <a href="${artist_link}">${artist_name}</a></h2>
+    <h3 align="center">Song: ${song_title}</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    ${encodeURIComponent(artist_about)}
+    ${artist_about}
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="${encodeURIComponent(song_youtube_url)}">YouTube</a> | 
-        <a href="${encodeURIComponent(song_spotify_url)}">Spotify</a> | 
-        <a href="${encodeURIComponent(song_apple_url)}">Apple Music</a> 
+        <a href="${song_youtube_url}">YouTube</a> | 
+        <a href="${song_spotify_url}">Spotify</a> | 
+        <a href="${song_apple_url}">Apple Music</a> 
     </p>
     <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="${encodeURIComponent(x_url)}">X</a> | 
-        <a href="${encodeURIComponent(instagram_url)}">Instagram</a> | 
-        <a href="${encodeURIComponent(youtube_url)}">YouTube</a>
+        <a href="${x_url}">X</a> | 
+        <a href="${instagram_url}">Instagram</a> | 
+        <a href="${youtube_url}">YouTube</a>
     </p>
     </details>
 </td>`;

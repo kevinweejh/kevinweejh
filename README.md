@@ -49,29 +49,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https%3A%2F%2Fstatic.wikia.nocookie.net%2Fkpop%2Fimages%2F1%2F16%2FQWER_Manito_group_concept_photo_1.png%2Frevision%2Flatest%2Fscale-to-width-down%2F1000%3Fcb%3D20240327112956" alt="Higuchi%20Ai Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/kpop/images/1/16/QWER_Manito_group_concept_photo_1.png/revision/latest/scale-to-width-down/1000?cb=20240327112956" alt="Higuchi Ai Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https%3A%2F%2Fwww.higuchiai.com%2F">Higuchi%20Ai</a></h2>
-    <h3 align="center">Song: %E3%82%B3%E3%82%A4%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E3%81%A6</h3>
+    <h2 align="center">Artist: <a href="https://www.higuchiai.com/">Higuchi Ai</a></h2>
+    <h3 align="center">Song: コインロッカーにて</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Higuchi%20Ai%20first%20came%20onto%20my%20radar%20when%20she%20performed%20the%207th%20ED%20for%20anime%20Attack%20on%20Titan.%20Whether%20it%20is%20a%20longing%20sadness%20or%20an%20exhilarating%20rush%2C%20her%20ability%20to%20imbue%20emotions%20in%20her%20voice%20is%20absolutely%20incredible%2C%20you'll%20have%20to%20hear%20it%20for%20yourself%20to%20understand.
+    Higuchi Ai first came onto my radar when she performed the 7th ED for anime Attack on Titan. Whether it is a longing sadness or an exhilarating rush, her ability to imbue emotions in her voice is absolutely incredible, you'll have to hear it for yourself to understand.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjCVMRVuIsds">YouTube</a> | 
-        <a href="https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3HDEDWtVoozk7I2yvdoy9m%3Fsi%3Dd9cc7b61ad93457f">Spotify</a> | 
-        <a href="https%3A%2F%2Fmusic.apple.com%2Fjp%2Fsong%2F%25E3%2582%25B3%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%25E3%2581%25AB%25E3%2581%25A6%2F1390414658">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=jCVMRVuIsds">YouTube</a> | 
+        <a href="https://open.spotify.com/track/3HDEDWtVoozk7I2yvdoy9m?si=d9cc7b61ad93457f">Spotify</a> | 
+        <a href="https://music.apple.com/jp/song/%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E3%81%A6/1390414658">Apple Music</a> 
     </p>
     <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="https%3A%2F%2Fx.com%2FHiguchiAi">X</a> | 
-        <a href="https%3A%2F%2Fwww.instagram.com%2Fhiguchiai.1128%2F">Instagram</a> | 
-        <a href="https%3A%2F%2Fwww.youtube.com%2F%40AiHiguchiOfficial">YouTube</a>
+        <a href="https://x.com/HiguchiAi">X</a> | 
+        <a href="https://www.instagram.com/higuchiai.1128/">Instagram</a> | 
+        <a href="https://www.youtube.com/@AiHiguchiOfficial">YouTube</a>
     </p>
     </details>
 </td>

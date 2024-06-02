@@ -21,7 +21,7 @@
 
 <!--Languages & Tools Section Body-->   
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,materialui,vite,webpack,babel,vitest,jest,nodejs,express,npm,yarn,git,figma,&perline=9" />
   </a>
 </p>

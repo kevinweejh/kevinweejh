@@ -26,7 +26,7 @@ const refreshFeaturedArtist = async () => {
     <p align="center">
         <img src="${artist_image_url}" alt="${artist_name} Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="${artist_link}">${artist_name}</a></h2>
+    <h2 align="center">Artist: <a href="${artist_link}" target="_blank" rel="noopener noreferrer">${artist_name}</a></h2>
     <h3 align="center">Song: ${song_title}</h3>
     <hr>
     <details>
@@ -38,15 +38,15 @@ const refreshFeaturedArtist = async () => {
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="${song_youtube_url}">YouTube</a> | 
-        <a href="${song_spotify_url}">Spotify</a> | 
-        <a href="${song_apple_url}">Apple Music</a> 
+        <a href="${song_youtube_url}" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="${song_spotify_url}" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="${song_apple_url}" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
     <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="${x_url}">X</a> | 
-        <a href="${instagram_url}">Instagram</a> | 
-        <a href="${youtube_url}">YouTube</a>
+        <a href="${x_url}" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="${instagram_url}" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="${youtube_url}" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>`;

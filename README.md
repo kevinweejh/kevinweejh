@@ -21,7 +21,7 @@
 
 <!--Languages & Tools Section Body-->   
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,materialui,vite,webpack,babel,vitest,jest,nodejs,express,npm,yarn,git,figma,&perline=9" />
   </a>
 </p>
@@ -51,7 +51,7 @@
     <p align="center">
         <img src="https://static.wikia.nocookie.net/kpop/images/1/16/QWER_Manito_group_concept_photo_1.png/revision/latest/scale-to-width-down/1000?cb=20240327112956" alt="Higuchi Ai Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.higuchiai.com/">Higuchi Ai</a></h2>
+    <h2 align="center">Artist: <a href="https://www.higuchiai.com/" target="_blank" rel="noopener noreferrer">Higuchi Ai</a></h2>
     <h3 align="center">Song: コインロッカーにて</h3>
     <hr>
     <details>
@@ -63,15 +63,15 @@
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=jCVMRVuIsds">YouTube</a> | 
-        <a href="https://open.spotify.com/track/3HDEDWtVoozk7I2yvdoy9m?si=d9cc7b61ad93457f">Spotify</a> | 
-        <a href="https://music.apple.com/jp/song/%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E3%81%A6/1390414658">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=jCVMRVuIsds" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/3HDEDWtVoozk7I2yvdoy9m?si=d9cc7b61ad93457f" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/song/%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E3%81%A6/1390414658" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
     <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="https://x.com/HiguchiAi">X</a> | 
-        <a href="https://www.instagram.com/higuchiai.1128/">Instagram</a> | 
-        <a href="https://www.youtube.com/@AiHiguchiOfficial">YouTube</a>
+        <a href="https://x.com/HiguchiAi" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/higuchiai.1128/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@AiHiguchiOfficial" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

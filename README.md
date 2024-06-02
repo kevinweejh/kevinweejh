@@ -49,29 +49,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Mori_Calliope.png" alt="Mori Calliope Image" width="200"/>
+        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRihzOuZnaaKV273aqd3I-9zWb4nZBK8HbCscaGR4fQMJ-e5Dn" alt="IVE Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://hololive.hololivepro.com/en/talents/mori-calliope/">Mori Calliope</a></h2>
-    <h3 align="center">Song: Overkill</h3>
+    <h2 align="center">Artist: <a href="https://kprofiles.com/ive-members-profile/" target="_blank" rel="noopener noreferrer">IVE</a></h2>
+    <h3 align="center">Song: Accendio</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Mori Calliope is a VTuber who spits fire. What impresses me the most is the way she almost effortlessly blends an aggressive, almost abrasive tone, with crystal clear vocals when it fits.
+    You can try (and fail) to convince me that Accendio is the best K-Pop song released in 2024 so far.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=J7tp_0lFI0I">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1UlQyJezbjrwRlC2fo3D3i?si=e21595b2739b4598">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/overkill/1730912918?i=1730912923">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=J6qEYwwCgoE" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf?si=544c7c0b08b2426b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/accendio/1743111714?i=1743111720" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
     <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="https://twitter.com/moricalliope">X</a> | 
-        <a href="">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg">YouTube</a>
+        <a href="https://twitter.com/IVE_twt" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/ivestarship" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UC-Fnix71vRP64WXeo0ikd0Q" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

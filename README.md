@@ -49,7 +49,7 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmusic.apple.com%2Fus%2Fartist%2Fstmlt%2F1654707363&psig=AOvVaw0KNohYRfLQrXxNgdtM-wYM&ust=1717341164860000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCIw8PYuoYDFQAAAAAdAAAAABAE" alt="ステミレイツ Image" width="200"/>
+        <img src="https://yt3.googleusercontent.com/VfcJwelfOBmCXV4LNlMmgZKjVzP3jxIBPjYaOnfQK2kWnoU50SqbT9K9S9SteDXkVNmeQOj-PA=s900-c-k-c0x00ffffff-no-rj" alt="ステミレイツ Image" width="200"/>
     </p>
     <h2 align="center">Artist: <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">ステミレイツ</a></h2>
     <h3 align="center">Song: 追求</h3>

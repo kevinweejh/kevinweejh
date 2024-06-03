@@ -49,29 +49,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRihzOuZnaaKV273aqd3I-9zWb4nZBK8HbCscaGR4fQMJ-e5Dn" alt="IVE Image" width="200"/>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmusic.apple.com%2Fus%2Fartist%2Fstmlt%2F1654707363&psig=AOvVaw0KNohYRfLQrXxNgdtM-wYM&ust=1717341164860000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCIw8PYuoYDFQAAAAAdAAAAABAE" alt="ステミレイツ Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://kprofiles.com/ive-members-profile/" target="_blank" rel="noopener noreferrer">IVE</a></h2>
-    <h3 align="center">Song: Accendio</h3>
+    <h2 align="center">Artist: <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">ステミレイツ</a></h2>
+    <h3 align="center">Song: 追求</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    You can try (and fail) to convince me that Accendio is the best K-Pop song released in 2024 so far.
+    Saxophone player in a rock band? Sign me up!
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=J6qEYwwCgoE" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf?si=544c7c0b08b2426b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/kr/album/accendio/1743111714?i=1743111720" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=lfMVW-88zyc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/6IgNbBAG0ChnnZz3JnbNB3?si=c3db70bf6a2945b7" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E8%BF%BD%E6%B1%82/1676590436?i=1676590437" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
     <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="https://twitter.com/IVE_twt" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/ivestarship" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UC-Fnix71vRP64WXeo0ikd0Q" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/stmltofficial" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/stmltytband/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

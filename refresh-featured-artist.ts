@@ -1,13 +1,33 @@
-const fs = require('fs');
-const path = require('path');
+// Importing necessary modules from 'fs' and 'path'
+import fs from 'fs';
+import path from 'path';
 
-const refreshFeaturedArtist = async () => {
+// Define an interface for the structure of a featured artist
+interface FeaturedArtists {
+  artist_image_url: string; 
+  artist_name: string;
+  artist_link: string;
+  artist_about: string;
+  song_title: string;
+  song_youtube_url: string;
+  song_spotify_url: string;
+  song_apple_url: string;
+  x_url: string;
+  instagram_url: string;
+  youtube_url: string;
+}
+
+// Asynchronous function to refresh the featured artist in the README
+const refreshFeaturedArtist = async (): Promise<void> => {
   try {
+    // Construct the file path to the JSON data file
     const filePath = path.join(__dirname, 'assets', 'data.json');
-    const fileContent = fs.readFileSync(filePath, 'utf-8');
-    const featuredArtists = JSON.parse(fileContent);
 
-    const randomIndex = Math.floor(Math.random() * featuredArtists.length);
+    // Read the file content and parse the JSON data
+    const fileContent: string = fs.readFileSync(filePath, 'utf-8');
+    const featuredArtists: FeaturedArtists[] = JSON.parse(fileContent);
+
+    const randomIndex: number = Math.floor(Math.random() * featuredArtists.length);
     const { 
         artist_image_url, 
         artist_name,
@@ -22,7 +42,8 @@ const refreshFeaturedArtist = async () => {
         youtube_url 
     } = featuredArtists[randomIndex];
 
-    const dynamicContent = `<td>
+    // Construct the dynamic content to be inserted into the README
+    const dynamicContent: string = `<td>
     <p align="center">
         <img src="${artist_image_url}" alt="${artist_name} Image" width="200"/>
     </p>
@@ -51,18 +72,23 @@ const refreshFeaturedArtist = async () => {
     </details>
 </td>`;
 
-    const readmePath = './README.md';
-    let readmeContent = fs.readFileSync(readmePath, 'utf-8');
+    // Read the current README content
+    const readmePath: string = './README.md';
+    let readmeContent: string = fs.readFileSync(readmePath, 'utf-8');
 
+    // Replace the old content with the new dynamic content
     readmeContent = readmeContent.replace(
       /<td>(.|\n)*<\/td>/,
       dynamicContent
     );
 
+    // Write the updated content back to the README file
     fs.writeFileSync(readmePath, readmeContent);
   } catch (error) {
+    // Log any errors that occur during the update process
     console.error('Error updating featured artist:', error);
   }
 }
 
+// Execute the function to refresh the featured artist
 refreshFeaturedArtist();

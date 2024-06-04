@@ -49,29 +49,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://cdns-images.dzcdn.net/images/artist/61bcbf8296b1669499064406c534d39d/500x500.jpg" alt="ずっと真夜中でいいのに。 Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/babymetal/images/5/56/%40BABYMETAL_JAPAN_Twitter_230402.jpg/revision/latest?cb=20230402104956" alt="BABYMETAL Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://zutomayo.net/" target="_blank" rel="noopener noreferrer">ずっと真夜中でいいのに。</a></h2>
-    <h3 align="center">Song: 綺羅キラー</h3>
+    <h2 align="center">Artist: <a href="https://babymetal.com/mob/index.php?site=TO&ima=3326" target="_blank" rel="noopener noreferrer">BABYMETAL</a></h2>
+    <h3 align="center">Song: イジメ、ダメ、ゼッタイ</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    ずっと真夜中でいいのに。(ZUTOMAYO) is a secretive band that conceals their identities. However, it's quite impossible to conceal the overflowing talent this group oozes with. Their songs are characterised by punchy basslines, punctuated with game noises, and vocals take make you feel like they're running around you in circles really quickly.
+    The juxtaposition of kawaii metal is not suppose to work this well, but BABYMETAL proves otherwise - very well, in fact.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=e5LaKxJVeVI" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/5nnIVX0gjyABWN0JYlNOUE?si=d61f098500474993" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E7%B6%BA%E7%BE%85%E3%82%AD%E3%83%A9%E3%83%BC-feat-mori-calliope/1688968525?i=1688968536" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://youtu.be/boYwMFlRapk?si=g4btwynRjZqjP9c3" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/6cwdJl1MNb1sMiCWYnSG6M?si=4759cc0917be40fb" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E3%82%A4%E3%82%B8%E3%83%A1-%E3%83%80%E3%83%A1-%E3%82%BC%E3%83%83%E3%82%BF%E3%82%A4-10-babymetal-budokan-live/1582402821?i=1582402823" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
     <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="https://x.com/zutomayo" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/zutomayo/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@ZUTOMAYO" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/BABYMETAL_JAPAN" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/babymetal_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@BABYMETAL" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

@@ -63,7 +63,7 @@ const refreshFeaturedArtist = async (): Promise<void> => {
         <a href="${song_spotify_url}" target="_blank" rel="noopener noreferrer">Spotify</a> | 
         <a href="${song_apple_url}" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow QWER</h3>
+    <h3 align="center">Follow ${artist_name}</h3>
     <p align="center">
         <a href="${x_url}" target="_blank" rel="noopener noreferrer">X</a> | 
         <a href="${instagram_url}" target="_blank" rel="noopener noreferrer">Instagram</a> | 

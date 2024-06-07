@@ -20,6 +20,9 @@ jobs:
 
             - name: Compile TypeScript
               run: npm run build
+
+            - name: Refresh featured artist
+              run: node refresh-featured-artist.js
               
             - name: Commit and push changes (if any)
               env: 

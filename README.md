@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://pbs.twimg.com/media/F_29dy0aQAA43bb?format=jpg&name=4096x4096" alt="BAND-MAID Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/2/2e/Ryokuoushoku-2023-03.jpg/revision/latest?cb=20230329213050" alt="緑黄色社会 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://bandmaid.tokyo/" target="_blank" rel="noopener noreferrer">BAND-MAID</a></h2>
-    <h3 align="center">Song: サヨナキドリ</h3>
+    <h2 align="center">Artist: <a href="https://www.ryokushaka.com/" target="_blank" rel="noopener noreferrer">緑黄色社会</a></h2>
+    <h3 align="center">Song: 花になって</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Discovering BAND-MAID back in 2017 felt like I had struck gold. As the saying goes: 'Rock was born in America, grew up in England, and was perfected in Japan.'
+    Everything about this band is just peak musicianship, the perfect balance of vocals, keyboards, guitar and bass that is written and performed scarily well together. I feel insanely blessed to have had the chance to see them live.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=6mVaehjAo2k" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/3tZRykqJTASRfa5gGf9Cpp?si=565f55a5524b4076" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%B5%E3%83%A8%E3%83%8A%E3%82%AD%E3%83%89%E3%83%AA/1542316961?i=1542316968" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=BQ2MmNWV0uM" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg?si=7d55a10700724146" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6-be-a-flower/1711411576?i=1711411579" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow BAND-MAID</h3>
+    <h3 align="center">Follow 緑黄色社会</h3>
     <p align="center">
-        <a href="https://x.com/bandmaid" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/bandmaid.jp/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCJToUvYrmkmTCR-bluEaQfA" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/ryokushaka" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/ryokushaka_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@ryokuoushokushakai" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

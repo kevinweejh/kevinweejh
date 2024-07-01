@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/2/2e/Ryokuoushoku-2023-03.jpg/revision/latest?cb=20230329213050" alt="緑黄色社会 Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/8/86/Ano_Dec23.jpg/revision/latest/scale-to-width-down/1200?cb=20240117085608" alt="ano Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.ryokushaka.com/" target="_blank" rel="noopener noreferrer">緑黄色社会</a></h2>
-    <h3 align="center">Song: 花になって</h3>
+    <h2 align="center">Artist: <a href="https://ano-official.com/" target="_blank" rel="noopener noreferrer">ano</a></h2>
+    <h3 align="center">Song: スマイルあげない</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Everything about this band is just peak musicianship, the perfect balance of vocals, keyboards, guitar and bass that is written and performed scarily well together. I feel insanely blessed to have had the chance to see them live.
+    ano
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=BQ2MmNWV0uM" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg?si=7d55a10700724146" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6-be-a-flower/1711411576?i=1711411579" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=Jjzbr_73ifc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL?si=82b6961bb33047a9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%82%E3%81%92%E3%81%AA%E3%81%84/1691483288?i=1691483290" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow 緑黄色社会</h3>
+    <h3 align="center">Follow ano</h3>
     <p align="center">
-        <a href="https://x.com/ryokushaka" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/ryokushaka_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@ryokuoushokushakai" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/aNo2mass" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/a_n_o2mass/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@anoofficialchannel" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

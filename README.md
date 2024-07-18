@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://i8.amplience.net/i/naras/red-hot-chili-peppers_MI0005438739-MN0000883318" alt="Red Hot Chili Peppers Image" width="200"/>
+        <img src="https://images.lifestyleasia.com/wp-content/uploads/sites/2/2024/03/15140557/japanese-singer-lisa-hong-kong-concert-2024-1600x900.jpg" alt="LiSA Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://redhotchilipeppers.com/" target="_blank" rel="noopener noreferrer">Red Hot Chili Peppers</a></h2>
-    <h3 align="center">Song: Under The Bridge</h3>
+    <h2 align="center">Artist: <a href="https://www.lxixsxa.com/" target="_blank" rel="noopener noreferrer">LiSA</a></h2>
+    <h3 align="center">Song: REALiZE</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    The Red Hot Chili Peppers is THE band to watch live, it is well and truly a transcendental experience. Their strongest suit by a wide margin is their jams and improvisation that ensure no two performances of a song are ever the same.
+    With Demon Slayer, Sword Art Online under her belt, LiSA is considered by many to be the queen of anime openings. Rightfully so, her unmistakably powerful, and at times deeply emotional, vocals has gone on to inspire many Japanese artists in the years since she came onto the scene. Her music is truly a gift to the community.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=GLvohMXgcBo" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0?si=f4393728a76046fe" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/under-the-bridge/945581828?i=945581840" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=-A0ICz6rVvU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8?si=03dbb115c6584ec1" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/realize/1689530598?i=1689530604" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Red Hot Chili Peppers</h3>
+    <h3 align="center">Follow LiSA</h3>
     <p align="center">
-        <a href="https://x.com/chilipeppers" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/chilipeppers/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@RedHotChiliPeppers" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/LiSA_OLiVE" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/xlisa_olivex" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

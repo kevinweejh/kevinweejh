@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmt8J9b4xqo-tFGPdIFM2n6gcn35QPOmw7VA&s" alt="HYDE Image" width="200"/>
+        <img src="https://pbs.twimg.com/media/F_29dy0aQAA43bb?format=jpg&name=4096x4096" alt="BAND-MAID Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.hyde.com/" target="_blank" rel="noopener noreferrer">HYDE</a></h2>
-    <h3 align="center">Song: DEFEAT</h3>
+    <h2 align="center">Artist: <a href="https://bandmaid.tokyo/" target="_blank" rel="noopener noreferrer">BAND-MAID</a></h2>
+    <h3 align="center">Song: REAL EXISTENCE</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    The legendary frontman of L'Arc-en-Ciel is in every way, shape and form the quintessential Japanese rockstar. Needless to say, it was breathtaking to watch him live at MetRock 2024 in Tokyo, with the entire crowd in the palm of his hand.
+    Discovering BAND-MAID back in 2017 felt like I had struck gold. As the saying goes: 'Rock was born in America, grew up in England, and was perfected in Japan.'
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=fWTRBsNHzco" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/65Ms5sOARUN42rMOlIi5D0?si=01db7efa20df45c5" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/defeat/1544371422?i=1544371425" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=-qQnKILR5u0" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/0S6wuDXHdmsKetgEXEMgUh?si=26e5d645632f4379" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/real-existence/1052639752?i=1052639763" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow HYDE</h3>
+    <h3 align="center">Follow BAND-MAID</h3>
     <p align="center">
-        <a href="https://x.com/HydeOfficial_" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/hydeofficial/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCPiJhfvRuQqQofd3xSZBQ1A" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/bandmaid" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/bandmaid.jp/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCJToUvYrmkmTCR-bluEaQfA" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

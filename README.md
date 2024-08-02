@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://i.scdn.co/image/ab6761610000517483e2d0c9611f1fb6baafcb36" alt="YOASOBI Image" width="200"/>
+        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRihzOuZnaaKV273aqd3I-9zWb4nZBK8HbCscaGR4fQMJ-e5Dn" alt="IVE Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.yoasobi-music.jp/" target="_blank" rel="noopener noreferrer">YOASOBI</a></h2>
-    <h3 align="center">Song: 群青</h3>
+    <h2 align="center">Artist: <a href="https://kprofiles.com/ive-members-profile/" target="_blank" rel="noopener noreferrer">IVE</a></h2>
+    <h3 align="center">Song: Accendio</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    YOASOBI is a Japanese pop duo that, in my opinion, has only released bangers since their formation in 2019. Their sound is unmistakable, extremely catchy, and simply infectious. Sincerely, I long for the day I get to see them live, to soak in the magic of the YOASOBI experience.
+    You can try (and fail) to convince me that Accendio is the best K-Pop song released in 2024 so far.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=ng08QQvjV0U" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk?si=fc2e73d4e5824cec" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E7%BE%A4%E9%9D%92/1528119626?i=1528119630" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=J6qEYwwCgoE" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf?si=544c7c0b08b2426b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/accendio/1743111714?i=1743111720" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow YOASOBI</h3>
+    <h3 align="center">Follow IVE</h3>
     <p align="center">
-        <a href="https://twitter.com/YOASOBI_staff" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/yoasobi_staff_/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@Ayase_YOASOBI" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/IVE_twt" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/ivestarship" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UC-Fnix71vRP64WXeo0ikd0Q" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

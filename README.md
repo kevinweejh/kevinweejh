@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/6/63/Higuchi_Ai.jpg/revision/latest?cb=20220126031000" alt="Higuchi Ai Image" width="200"/>
+        <img src="https://yt3.googleusercontent.com/nAeaDycSjYP1nXS4gfcj93eeTDXFPrrBWKLdhi0_xkXQjS3gXnHBOHJcDwVoQkDnW7_23qJwRg=s900-c-k-c0x00ffffff-no-rj" alt="乃紫 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.higuchiai.com/" target="_blank" rel="noopener noreferrer">Higuchi Ai</a></h2>
-    <h3 align="center">Song: 悪魔の子</h3>
+    <h2 align="center">Artist: <a href="https://noa.fanpla.jp/" target="_blank" rel="noopener noreferrer">乃紫</a></h2>
+    <h3 align="center">Song: 先輩</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Higuchi Ai's phenomenal performance on the 7th ED for anime Attack on Titan cemented her place as one of the greats. The pain that she conveys in this performance gives me the chills, every single time.
+    Not much to say, other than I was plesantly surprised to hear 乃紫 (noa) playing while eating in a Sukiya somewhere in Shinjuku. Definitely an artist on my radar for new music.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=eLBhEn8PwA8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y?si=a972ac36e7ea487d" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E6%82%AA%E9%AD%94%E3%81%AE%E5%AD%90/1601391183?i=1601391184" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=xRtX0mZIQRs" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1141uIU9WDqLCjbIbet1eu?si=47c47fda7171493b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E5%85%88%E8%BC%A9/1702140626?i=1702140638" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Higuchi Ai</h3>
+    <h3 align="center">Follow 乃紫</h3>
     <p align="center">
-        <a href="https://x.com/HiguchiAi" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/higuchiai.1128/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@AiHiguchiOfficial" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/___aburasoba" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/noa_aburasoba/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@noa_aburasoba" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

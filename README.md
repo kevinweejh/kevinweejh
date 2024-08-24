@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmt8J9b4xqo-tFGPdIFM2n6gcn35QPOmw7VA&s" alt="HYDE Image" width="200"/>
+        <img src="https://i1.sndcdn.com/avatars-Ox9LTYFVFHTw97CV-Km1e5w-t240x240.jpg" alt="Su Lee Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.hyde.com/" target="_blank" rel="noopener noreferrer">HYDE</a></h2>
-    <h3 align="center">Song: DEFEAT</h3>
+    <h2 align="center">Artist: <a href="https://www.youtube.com/channel/UCh0H_Bie0cJ5zpat63aJ1dQ" target="_blank" rel="noopener noreferrer">Su Lee</a></h2>
+    <h3 align="center">Song: Sleepy Hollow</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    The legendary frontman of L'Arc-en-Ciel is in every way, shape and form the quintessential Japanese rockstar. Needless to say, it was breathtaking to watch him live at MetRock 2024 in Tokyo, with the entire crowd in the palm of his hand.
+    The bedroom musician that slayed so hard she made it out of the bedroom, and continues to slay.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=fWTRBsNHzco" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/65Ms5sOARUN42rMOlIi5D0?si=01db7efa20df45c5" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/defeat/1544371422?i=1544371425" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=-dkdi-tCEw0" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/54daOX8MkszVCTYNjog8aE?si=11b573e01fc34489" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/sleepy-hollow/1653422125?i=1653422133" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow HYDE</h3>
+    <h3 align="center">Follow Su Lee</h3>
     <p align="center">
-        <a href="https://x.com/HydeOfficial_" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/hydeofficial/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCPiJhfvRuQqQofd3xSZBQ1A" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/suleesususu" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/suleesusu/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCh0H_Bie0cJ5zpat63aJ1dQ" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

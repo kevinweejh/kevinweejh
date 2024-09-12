@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/babymetal/images/5/56/%40BABYMETAL_JAPAN_Twitter_230402.jpg/revision/latest?cb=20230402104956" alt="BABYMETAL Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/a/a0/Coshu2024.jpg/revision/latest/scale-to-width-down/1000?cb=20240306191303" alt="Cö Shu Nie Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://babymetal.com/mob/index.php?site=TO&ima=3326" target="_blank" rel="noopener noreferrer">BABYMETAL</a></h2>
-    <h3 align="center">Song: イジメ、ダメ、ゼッタイ</h3>
+    <h2 align="center">Artist: <a href="https://coshunie.com/s/n108/?ima=0534" target="_blank" rel="noopener noreferrer">Cö Shu Nie</a></h2>
+    <h3 align="center">Song: 絶体絶命</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    The juxtaposition of kawaii metal is not suppose to work this well, but BABYMETAL proves otherwise - very well, in fact.
+    Cö Shu Nie has one of the most beautiful mixes of captivating vocals, punchy bass, and eclectic guitar sounds. Listening to any of their albums all the way through is surely a trip.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://youtu.be/boYwMFlRapk?si=g4btwynRjZqjP9c3" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/6cwdJl1MNb1sMiCWYnSG6M?si=4759cc0917be40fb" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%A4%E3%82%B8%E3%83%A1-%E3%83%80%E3%83%A1-%E3%82%BC%E3%83%83%E3%82%BF%E3%82%A4-10-babymetal-budokan-live/1582402821?i=1582402823" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=cZ3u68D3Ee0" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/305Bg2oa93WP3EG1PmjnWF?si=d2acf1c090fa473b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD/1535627788?i=1535627791" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow BABYMETAL</h3>
+    <h3 align="center">Follow Cö Shu Nie</h3>
     <p align="center">
-        <a href="https://x.com/BABYMETAL_JAPAN" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/babymetal_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@BABYMETAL" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/co_shu_nie" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/coshunie_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@coshunie_official" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

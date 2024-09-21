@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://lastfm.freetls.fastly.net/i/u/ar0/964b3396ee4ddca61345e7230ef60805.jpg" alt="SUPER BEAVER Image" width="200"/>
+        <img src="https://pbs.twimg.com/media/F8Ttqr9aAAA6hjX?format=jpg&name=large" alt="QWER Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://super-beaver.com/" target="_blank" rel="noopener noreferrer">SUPER BEAVER</a></h2>
-    <h3 align="center">Song: 突破口</h3>
+    <h2 align="center">Artist: <a href="https://kprofiles.com/qwer-members-profile/" target="_blank" rel="noopener noreferrer">QWER</a></h2>
+    <h3 align="center">Song: Discord</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    My first encounter with SUPER BEAVER was at MetRock 2024 in Tokyo, and all I can say is that this right here is a proper rock band that gets the crowd going. Powerful vocals, exciting riffs, packaged well with amazing live delivery - and their fans are crazy in the best way possible.
+    QWER is a rising star in the pop-rock music scene in South Korea. Their roster is stacked with social media personalities and a former member of a Japanese idol group, but don't let that fool you. Their music is energetic and fun, and it is amazing to watch how quickly each of the members are honing their craft.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=q_N47EU9Ank" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW?si=217f6d46e5f04af9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E7%AA%81%E7%A0%B4%E5%8F%A3/1548496866?i=1548496869" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://youtu.be/Ieb8IOiFfhk?t=220" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC?si=d36ec1b2e3784e64" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/discord/1711740153?i=1711740155" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow SUPER BEAVER</h3>
+    <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="https://x.com/super_beaver" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/superbeaver_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/official_QWER" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/qwerband_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@QWER_Band_official" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

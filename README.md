@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/babymetal/images/5/56/%40BABYMETAL_JAPAN_Twitter_230402.jpg/revision/latest?cb=20230402104956" alt="BABYMETAL Image" width="200"/>
+        <img src="https://lastfm.freetls.fastly.net/i/u/ar0/964b3396ee4ddca61345e7230ef60805.jpg" alt="SUPER BEAVER Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://babymetal.com/mob/index.php?site=TO&ima=3326" target="_blank" rel="noopener noreferrer">BABYMETAL</a></h2>
-    <h3 align="center">Song: イジメ、ダメ、ゼッタイ</h3>
+    <h2 align="center">Artist: <a href="https://super-beaver.com/" target="_blank" rel="noopener noreferrer">SUPER BEAVER</a></h2>
+    <h3 align="center">Song: 突破口</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    The juxtaposition of kawaii metal is not suppose to work this well, but BABYMETAL proves otherwise - very well, in fact.
+    My first encounter with SUPER BEAVER was at MetRock 2024 in Tokyo, and all I can say is that this right here is a proper rock band that gets the crowd going. Powerful vocals, exciting riffs, packaged well with amazing live delivery - and their fans are crazy in the best way possible.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://youtu.be/boYwMFlRapk?si=g4btwynRjZqjP9c3" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/6cwdJl1MNb1sMiCWYnSG6M?si=4759cc0917be40fb" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%A4%E3%82%B8%E3%83%A1-%E3%83%80%E3%83%A1-%E3%82%BC%E3%83%83%E3%82%BF%E3%82%A4-10-babymetal-budokan-live/1582402821?i=1582402823" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=q_N47EU9Ank" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW?si=217f6d46e5f04af9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E7%AA%81%E7%A0%B4%E5%8F%A3/1548496866?i=1548496869" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow BABYMETAL</h3>
+    <h3 align="center">Follow SUPER BEAVER</h3>
     <p align="center">
-        <a href="https://x.com/BABYMETAL_JAPAN" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/babymetal_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@BABYMETAL" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/super_beaver" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/superbeaver_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

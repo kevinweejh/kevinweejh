@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/kpop/images/1/16/QWER_Manito_group_concept_photo_1.png/revision/latest/scale-to-width-down/1000?cb=20240327112956" alt="QWER Image" width="200"/>
+        <img src="https://yt3.googleusercontent.com/VfcJwelfOBmCXV4LNlMmgZKjVzP3jxIBPjYaOnfQK2kWnoU50SqbT9K9S9SteDXkVNmeQOj-PA=s900-c-k-c0x00ffffff-no-rj" alt="ステミレイツ Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://kprofiles.com/qwer-members-profile/" target="_blank" rel="noopener noreferrer">QWER</a></h2>
-    <h3 align="center">Song: G9JB</h3>
+    <h2 align="center">Artist: <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">ステミレイツ</a></h2>
+    <h3 align="center">Song: 追求</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    QWER is a rising star in the pop-rock music scene in South Korea. Their roster is stacked with social media personalities and a former member of a Japanese idol group, but don't let that fool you. Their music is energetic and fun, and it is amazing to watch how quickly each of the members are honing their craft.
+    Saxophone player in a rock band? Sign me up!
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=IxOZJqMgaOM" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/3wfx8yT3cr1gfD1HZp026n?si=2eeba832e8484172" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/kr/album/%EC%A7%80%EA%B5%AC%EC%A0%95%EB%B3%B5/1737366584?i=1737366709" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=lfMVW-88zyc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/6IgNbBAG0ChnnZz3JnbNB3?si=c3db70bf6a2945b7" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E8%BF%BD%E6%B1%82/1676590436?i=1676590437" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow QWER</h3>
+    <h3 align="center">Follow ステミレイツ</h3>
     <p align="center">
-        <a href="https://twitter.com/official_QWER" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/qwerband_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@QWER_Band_official" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/stmltofficial" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/stmltytband/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

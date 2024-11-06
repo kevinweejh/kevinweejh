@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://yt3.googleusercontent.com/VfcJwelfOBmCXV4LNlMmgZKjVzP3jxIBPjYaOnfQK2kWnoU50SqbT9K9S9SteDXkVNmeQOj-PA=s900-c-k-c0x00ffffff-no-rj" alt="ステミレイツ Image" width="200"/>
+        <img src="https://static.wixstatic.com/media/66144e_af4ab0adf9634d01b2864e1ae2acb185~mv2.jpg/v1/crop/x_0,y_33,w_3000,h_2935/fill/w_459,h_449,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%5B%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%5D%20%EC%9C%A0%EB%9D%BC%20(youra)_Rawww.jpg" alt="유라 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">ステミレイツ</a></h2>
-    <h3 align="center">Song: 追求</h3>
+    <h2 align="center">Artist: <a href="https://www.munhwain.kr/youra" target="_blank" rel="noopener noreferrer">유라</a></h2>
+    <h3 align="center">Song: Rawww</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Saxophone player in a rock band? Sign me up!
+    유라 (youra) is a Korean singer-songwriter whose ability to seamlessly insert her voice into songs from a wide range of genres makes me extremely curious and excited whenever she releases something new. For the musically-curious: Her work with Korean trio Mandong straddles on the border of jazz and psychedelic rock - absolute masterpiece.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=lfMVW-88zyc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/6IgNbBAG0ChnnZz3JnbNB3?si=c3db70bf6a2945b7" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E8%BF%BD%E6%B1%82/1676590436?i=1676590437" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=i7uuvqTq9Bo" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K?si=86c92bd5588743b4" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/rawww/1594541806?i=1594541810" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow ステミレイツ</h3>
+    <h3 align="center">Follow 유라</h3>
     <p align="center">
-        <a href="https://x.com/stmltofficial" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/stmltytband/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/you.ra/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCrgmcWsu4pBRmEQz1l5cklQ" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

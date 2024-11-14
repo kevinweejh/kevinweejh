@@ -58,7 +58,7 @@
         <img src="https://static.wikia.nocookie.net/babymetal/images/5/56/%40BABYMETAL_JAPAN_Twitter_230402.jpg/revision/latest?cb=20230402104956" alt="BABYMETAL Image" width="200"/>
     </p>
     <h2 align="center">Artist: <a href="https://babymetal.com/mob/index.php?site=TO&ima=3326" target="_blank" rel="noopener noreferrer">BABYMETAL</a></h2>
-    <h3 align="center">Song: イジメ、ダメ、ゼッタイ</h3>
+    <h3 align="center">Song: シンコペーション</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
@@ -69,9 +69,9 @@
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://youtu.be/boYwMFlRapk?si=g4btwynRjZqjP9c3" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/6cwdJl1MNb1sMiCWYnSG6M?si=4759cc0917be40fb" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%A4%E3%82%B8%E3%83%A1-%E3%83%80%E3%83%A1-%E3%82%BC%E3%83%83%E3%82%BF%E3%82%A4-10-babymetal-budokan-live/1582402821?i=1582402823" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=Odb9Zy0YdOc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/0dTrBPFN7wozVdVhqUFcP5?si=185a9914237a4bdb" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E3%82%B7%E3%83%B3%E3%82%B3%E3%83%9A%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/1083834486?i=1083835787" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
     <h3 align="center">Follow BABYMETAL</h3>
     <p align="center">

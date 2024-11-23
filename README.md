@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRihzOuZnaaKV273aqd3I-9zWb4nZBK8HbCscaGR4fQMJ-e5Dn" alt="IVE Image" width="200"/>
+        <img src="https://lastfm.freetls.fastly.net/i/u/ar0/964b3396ee4ddca61345e7230ef60805.jpg" alt="SUPER BEAVER Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://kprofiles.com/ive-members-profile/" target="_blank" rel="noopener noreferrer">IVE</a></h2>
-    <h3 align="center">Song: Accendio</h3>
+    <h2 align="center">Artist: <a href="https://super-beaver.com/" target="_blank" rel="noopener noreferrer">SUPER BEAVER</a></h2>
+    <h3 align="center">Song: 突破口</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    You can try (and fail) to convince me that Accendio is the best K-Pop song released in 2024 so far.
+    My first encounter with SUPER BEAVER was at MetRock 2024 in Tokyo, and all I can say is that this right here is a proper rock band that gets the crowd going. Powerful vocals, exciting riffs, packaged well with amazing live delivery - and their fans are crazy in the best way possible.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=J6qEYwwCgoE" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf?si=544c7c0b08b2426b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/kr/album/accendio/1743111714?i=1743111720" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=q_N47EU9Ank" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW?si=217f6d46e5f04af9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E7%AA%81%E7%A0%B4%E5%8F%A3/1548496866?i=1548496869" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow IVE</h3>
+    <h3 align="center">Follow SUPER BEAVER</h3>
     <p align="center">
-        <a href="https://twitter.com/IVE_twt" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/ivestarship" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UC-Fnix71vRP64WXeo0ikd0Q" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/super_beaver" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/superbeaver_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

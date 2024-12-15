@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/8/86/Ano_Dec23.jpg/revision/latest/scale-to-width-down/1200?cb=20240117085608" alt="ano Image" width="200"/>
+        <img src="https://www.esplanade.com/-/media/Esplanade/Images/Whats-On/festival-and-series/2024/mosaic/hitsujibungaku-01.ashx?rev=aea5224b98614c5c9d47118614481745&hash=DEB7A175DB44D5FBCF82C4888F2BE932" alt="羊文学 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://ano-official.com/" target="_blank" rel="noopener noreferrer">ano</a></h2>
-    <h3 align="center">Song: スマイルあげない</h3>
+    <h2 align="center">Artist: <a href="https://www.hitsujibungaku.info/" target="_blank" rel="noopener noreferrer">羊文学</a></h2>
+    <h3 align="center">Song: Addiction</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    ano
+    羊文学 (Hitsujibungaku) entered my life with their performance for the 2nd ED for the Shibuya Incident Arc of Jujutsu Kaisen S2. Later, I saw them perform at MetRock 2024 in Tokyo, and it immediately became extremely clear to me that this trio is truly something special. 
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=Jjzbr_73ifc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL?si=82b6961bb33047a9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%82%E3%81%92%E3%81%AA%E3%81%84/1691483288?i=1691483290" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=AteWl40-UP8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/4OqMFjnROd98SGfvR2lOdu?si=711cb2857d404832" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/addiction/1714742640?i=1714742650" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow ano</h3>
+    <h3 align="center">Follow 羊文学</h3>
     <p align="center">
-        <a href="https://x.com/aNo2mass" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/a_n_o2mass/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@anoofficialchannel" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/Hitsujibungaku" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/hitsujibungaku/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCm0qsuAG6RN2FYKZ_r1nPyg" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

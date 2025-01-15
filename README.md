@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmt8J9b4xqo-tFGPdIFM2n6gcn35QPOmw7VA&s" alt="HYDE Image" width="200"/>
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Mori_Calliope.png" alt="Mori Calliope Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.hyde.com/" target="_blank" rel="noopener noreferrer">HYDE</a></h2>
-    <h3 align="center">Song: DEFEAT</h3>
+    <h2 align="center">Artist: <a href="https://hololive.hololivepro.com/en/talents/mori-calliope/" target="_blank" rel="noopener noreferrer">Mori Calliope</a></h2>
+    <h3 align="center">Song: Overkill</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    The legendary frontman of L'Arc-en-Ciel is in every way, shape and form the quintessential Japanese rockstar. Needless to say, it was breathtaking to watch him live at MetRock 2024 in Tokyo, with the entire crowd in the palm of his hand.
+    Mori Calliope is a VTuber who spits fire. What impresses me the most is the way she almost effortlessly blends an aggressive, almost abrasive tone, with crystal clear vocals when it fits.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=fWTRBsNHzco" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/65Ms5sOARUN42rMOlIi5D0?si=01db7efa20df45c5" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/defeat/1544371422?i=1544371425" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=J7tp_0lFI0I" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1UlQyJezbjrwRlC2fo3D3i?si=e21595b2739b4598" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/us/album/overkill/1730912918?i=1730912923" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow HYDE</h3>
+    <h3 align="center">Follow Mori Calliope</h3>
     <p align="center">
-        <a href="https://x.com/HydeOfficial_" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/hydeofficial/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCPiJhfvRuQqQofd3xSZBQ1A" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/moricalliope" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

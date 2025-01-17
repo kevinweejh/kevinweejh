@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://images.lifestyleasia.com/wp-content/uploads/sites/2/2024/03/15140557/japanese-singer-lisa-hong-kong-concert-2024-1600x900.jpg" alt="LiSA Image" width="200"/>
+        <img src="https://cdns-images.dzcdn.net/images/artist/61bcbf8296b1669499064406c534d39d/500x500.jpg" alt="ずっと真夜中でいいのに。 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.lxixsxa.com/" target="_blank" rel="noopener noreferrer">LiSA</a></h2>
-    <h3 align="center">Song: Shouted Serenade</h3>
+    <h2 align="center">Artist: <a href="https://zutomayo.net/" target="_blank" rel="noopener noreferrer">ずっと真夜中でいいのに。</a></h2>
+    <h3 align="center">Song: 勘冴えて悔しいわ</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    With Demon Slayer, Sword Art Online under her belt, LiSA is considered by many to be the queen of anime openings. Rightfully so, her unmistakably powerful, and at times deeply emotional, vocals has gone on to inspire many Japanese artists in the years since she came onto the scene. Her music is truly a gift to the community.
+    ずっと真夜中でいいのに。(ZUTOMAYO) is a secretive band that conceals their identities. However, it's quite impossible to conceal the overflowing talent this group oozes with. Their songs are characterised by punchy basslines, punctuated with game noises, and vocals take make you feel like they're running around you in circles really quickly.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=fR7e0N1UkRI" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov?si=8e1b06d961a44943" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/shouted-serenade/1737736346?i=1737736349" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=4QePrv24TBU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp?si=9052ce5654064bc3" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E5%8B%98%E5%86%B4%E3%81%88%E3%81%A6%E6%82%94%E3%81%97%E3%81%84%E3%82%8F/1481464093?i=1481464101" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow LiSA</h3>
+    <h3 align="center">Follow ずっと真夜中でいいのに。</h3>
     <p align="center">
-        <a href="https://twitter.com/LiSA_OLiVE" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/xlisa_olivex" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/zutomayo" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/zutomayo/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@ZUTOMAYO" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

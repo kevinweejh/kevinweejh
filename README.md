@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/a/a0/Coshu2024.jpg/revision/latest/scale-to-width-down/1000?cb=20240306191303" alt="Cö Shu Nie Image" width="200"/>
+        <img src="https://lh3.googleusercontent.com/miHtbZKrFwKTwxA0r7gky4MJPBbPdEcC6U_uU3E3NYjGcfY4Ki7M6qbPcnnnBuY2TImDFBQKsxVNPXpYlA=w544-h544-l90-rj" alt="FREDERIC Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://coshunie.com/s/n108/?ima=0534" target="_blank" rel="noopener noreferrer">Cö Shu Nie</a></h2>
-    <h3 align="center">Song: 絶体絶命</h3>
+    <h2 align="center">Artist: <a href="https://frederic-official.com/" target="_blank" rel="noopener noreferrer">FREDERIC</a></h2>
+    <h3 align="center">Song: oddloop</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Cö Shu Nie has one of the most beautiful mixes of captivating vocals, punchy bass, and eclectic guitar sounds. Listening to any of their albums all the way through is surely a trip.
+    When an artist begins a performance with 'This song was written 9 years ago. We're going to perform the song that changed our lives.', you better sit down and listen well.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=cZ3u68D3Ee0" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/305Bg2oa93WP3EG1PmjnWF?si=d2acf1c090fa473b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD/1535627788?i=1535627791" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=pXyGPPsUTeU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/5hQll2t2rfpVARhVjDVOYJ?si=c943ed44497d42e2" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E3%82%AA%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97/916163967?i=916163980" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Cö Shu Nie</h3>
+    <h3 align="center">Follow FREDERIC</h3>
     <p align="center">
-        <a href="https://x.com/co_shu_nie" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/coshunie_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@coshunie_official" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/frederitter" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/frederigram/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCeoCO4_u1DdJBwyil66IsNw" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

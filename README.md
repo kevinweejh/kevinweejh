@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://lh3.googleusercontent.com/miHtbZKrFwKTwxA0r7gky4MJPBbPdEcC6U_uU3E3NYjGcfY4Ki7M6qbPcnnnBuY2TImDFBQKsxVNPXpYlA=w544-h544-l90-rj" alt="FREDERIC Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/6/63/Higuchi_Ai.jpg/revision/latest?cb=20220126031000" alt="Higuchi Ai Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://frederic-official.com/" target="_blank" rel="noopener noreferrer">FREDERIC</a></h2>
-    <h3 align="center">Song: oddloop</h3>
+    <h2 align="center">Artist: <a href="https://www.higuchiai.com/" target="_blank" rel="noopener noreferrer">Higuchi Ai</a></h2>
+    <h3 align="center">Song: 悪魔の子</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    When an artist begins a performance with 'This song was written 9 years ago. We're going to perform the song that changed our lives.', you better sit down and listen well.
+    Higuchi Ai's phenomenal performance on the 7th ED for anime Attack on Titan cemented her place as one of the greats. The pain that she conveys in this performance gives me the chills, every single time.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=pXyGPPsUTeU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/5hQll2t2rfpVARhVjDVOYJ?si=c943ed44497d42e2" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%AA%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97/916163967?i=916163980" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=eLBhEn8PwA8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y?si=a972ac36e7ea487d" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E6%82%AA%E9%AD%94%E3%81%AE%E5%AD%90/1601391183?i=1601391184" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow FREDERIC</h3>
+    <h3 align="center">Follow Higuchi Ai</h3>
     <p align="center">
-        <a href="https://x.com/frederitter" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/frederigram/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCeoCO4_u1DdJBwyil66IsNw" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/HiguchiAi" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/higuchiai.1128/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@AiHiguchiOfficial" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

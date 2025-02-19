@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://pbs.twimg.com/media/F8Ttqr9aAAA6hjX?format=jpg&name=large" alt="QWER Image" width="200"/>
+        <img src="https://pbs.twimg.com/media/F_29dy0aQAA43bb?format=jpg&name=4096x4096" alt="BAND-MAID Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://kprofiles.com/qwer-members-profile/" target="_blank" rel="noopener noreferrer">QWER</a></h2>
-    <h3 align="center">Song: Discord</h3>
+    <h2 align="center">Artist: <a href="https://bandmaid.tokyo/" target="_blank" rel="noopener noreferrer">BAND-MAID</a></h2>
+    <h3 align="center">Song: Influencer</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    QWER is a rising star in the pop-rock music scene in South Korea. Their roster is stacked with social media personalities and a former member of a Japanese idol group, but don't let that fool you. Their music is energetic and fun, and it is amazing to watch how quickly each of the members are honing their craft.
+    Discovering BAND-MAID back in 2017 felt like I had struck gold. As the saying goes: 'Rock was born in America, grew up in England, and was perfected in Japan.'
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://youtu.be/Ieb8IOiFfhk?t=220" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC?si=d36ec1b2e3784e64" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/kr/album/discord/1711740153?i=1711740155" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=e_bEf1C0spY" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ?si=c6383e492e5844e8" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/influencer/1643608830?i=1643608837" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow QWER</h3>
+    <h3 align="center">Follow BAND-MAID</h3>
     <p align="center">
-        <a href="https://twitter.com/official_QWER" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/qwerband_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@QWER_Band_official" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/bandmaid" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/bandmaid.jp/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCJToUvYrmkmTCR-bluEaQfA" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

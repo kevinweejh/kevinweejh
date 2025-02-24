@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/e/e9/Conton_Candy.jpg/revision/latest/scale-to-width-down/1000?cb=20210725190649" alt="Conton Candy Image" width="200"/>
+        <img src="https://pbs.twimg.com/media/F_29dy0aQAA43bb?format=jpg&name=4096x4096" alt="BAND-MAID Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://lit.link/en/contoncandy" target="_blank" rel="noopener noreferrer">Conton Candy</a></h2>
-    <h3 align="center">Song: ロングスカートは靡いて</h3>
+    <h2 align="center">Artist: <a href="https://bandmaid.tokyo/" target="_blank" rel="noopener noreferrer">BAND-MAID</a></h2>
+    <h3 align="center">Song: Influencer</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Conton Candy is a breath of fresh air within the Japanese Pop/Rock scene. Their music is catchy with a surprisingly energetic bass line. Having seen them live at MetRock 2024 in Tokyo, I am certified to say that their live performance (energy + audience interaction) is infectious.
+    Discovering BAND-MAID back in 2017 felt like I had struck gold. As the saying goes: 'Rock was born in America, grew up in England, and was perfected in Japan.'
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=xF4TPhya8n8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/3JuyjD9fWqbkUWv19uBZyP?si=50865a7310424aa9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88%E3%81%AF%E9%9D%A1%E3%81%84%E3%81%A6/1588904611?i=1588904921" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=e_bEf1C0spY" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ?si=c6383e492e5844e8" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/influencer/1643608830?i=1643608837" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Conton Candy</h3>
+    <h3 align="center">Follow BAND-MAID</h3>
     <p align="center">
-        <a href="https://x.com/Conton_Candy" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/contoncandy_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@ContonCandy" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/bandmaid" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/bandmaid.jp/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCJToUvYrmkmTCR-bluEaQfA" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

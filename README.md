@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://i8.amplience.net/i/naras/red-hot-chili-peppers_MI0005438739-MN0000883318" alt="Red Hot Chili Peppers Image" width="200"/>
+        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCYod9S7n_rsKfGgQsqZvboYbzDADqH6iaEObEaC4rUEIw7zEA" alt="Toaka Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://redhotchilipeppers.com/" target="_blank" rel="noopener noreferrer">Red Hot Chili Peppers</a></h2>
-    <h3 align="center">Song: Under The Bridge</h3>
+    <h2 align="center">Artist: <a href="https://billboardphilippines.com/music/features/get-to-know-toaka-6-facts-about-radwimps-special-guest-for-their-first-manila-concert-this-may-2024/" target="_blank" rel="noopener noreferrer">Toaka</a></h2>
+    <h3 align="center">Song: Suzume</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    The Red Hot Chili Peppers is THE band to watch live, it is well and truly a transcendental experience. Their strongest suit by a wide margin is their jams and improvisation that ensure no two performances of a song are ever the same.
+    I am positively certain that Toaka's voice in the song 'Suzume' contributed to a non-negligible portion of box office revenue for the film of the same name. Amazing movie, by the way.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=GLvohMXgcBo" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0?si=f4393728a76046fe" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/under-the-bridge/945581828?i=945581840" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://youtu.be/UmkxTv3sHEc?t=61" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5?si=8513707619654b22" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E3%81%99%E3%81%9A%E3%82%81-feat-%E5%8D%81%E6%98%8E/1646939421?i=1646939428" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Red Hot Chili Peppers</h3>
+    <h3 align="center">Follow Toaka</h3>
     <p align="center">
-        <a href="https://x.com/chilipeppers" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/chilipeppers/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@RedHotChiliPeppers" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/toaka_desu" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/toaka_desu/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCx5hlI4urmu35mHlNFw2UFw" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

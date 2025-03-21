@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://cdns-images.dzcdn.net/images/artist/61bcbf8296b1669499064406c534d39d/500x500.jpg" alt="ずっと真夜中でいいのに。 Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/2/2e/Ryokuoushoku-2023-03.jpg/revision/latest?cb=20230329213050" alt="緑黄色社会 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://zutomayo.net/" target="_blank" rel="noopener noreferrer">ずっと真夜中でいいのに。</a></h2>
-    <h3 align="center">Song: 勘冴えて悔しいわ</h3>
+    <h2 align="center">Artist: <a href="https://www.ryokushaka.com/" target="_blank" rel="noopener noreferrer">緑黄色社会</a></h2>
+    <h3 align="center">Song: 花になって</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    ずっと真夜中でいいのに。(ZUTOMAYO) is a secretive band that conceals their identities. However, it's quite impossible to conceal the overflowing talent this group oozes with. Their songs are characterised by punchy basslines, punctuated with game noises, and vocals take make you feel like they're running around you in circles really quickly.
+    Everything about this band is just peak musicianship, the perfect balance of vocals, keyboards, guitar and bass that is written and performed scarily well together. I feel insanely blessed to have had the chance to see them live.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=4QePrv24TBU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp?si=9052ce5654064bc3" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E5%8B%98%E5%86%B4%E3%81%88%E3%81%A6%E6%82%94%E3%81%97%E3%81%84%E3%82%8F/1481464093?i=1481464101" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=BQ2MmNWV0uM" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg?si=7d55a10700724146" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6-be-a-flower/1711411576?i=1711411579" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow ずっと真夜中でいいのに。</h3>
+    <h3 align="center">Follow 緑黄色社会</h3>
     <p align="center">
-        <a href="https://x.com/zutomayo" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/zutomayo/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@ZUTOMAYO" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/ryokushaka" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/ryokushaka_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@ryokuoushokushakai" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

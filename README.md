@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/6/63/Higuchi_Ai.jpg/revision/latest?cb=20220126031000" alt="Higuchi Ai Image" width="200"/>
+        <img src="https://i8.amplience.net/i/naras/red-hot-chili-peppers_MI0005438739-MN0000883318" alt="Red Hot Chili Peppers Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.higuchiai.com/" target="_blank" rel="noopener noreferrer">Higuchi Ai</a></h2>
-    <h3 align="center">Song: 悪魔の子</h3>
+    <h2 align="center">Artist: <a href="https://redhotchilipeppers.com/" target="_blank" rel="noopener noreferrer">Red Hot Chili Peppers</a></h2>
+    <h3 align="center">Song: Under The Bridge</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Higuchi Ai's phenomenal performance on the 7th ED for anime Attack on Titan cemented her place as one of the greats. The pain that she conveys in this performance gives me the chills, every single time.
+    The Red Hot Chili Peppers is THE band to watch live, it is well and truly a transcendental experience. Their strongest suit by a wide margin is their jams and improvisation that ensure no two performances of a song are ever the same.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=eLBhEn8PwA8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y?si=a972ac36e7ea487d" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E6%82%AA%E9%AD%94%E3%81%AE%E5%AD%90/1601391183?i=1601391184" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=GLvohMXgcBo" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0?si=f4393728a76046fe" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/us/album/under-the-bridge/945581828?i=945581840" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Higuchi Ai</h3>
+    <h3 align="center">Follow Red Hot Chili Peppers</h3>
     <p align="center">
-        <a href="https://x.com/HiguchiAi" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/higuchiai.1128/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@AiHiguchiOfficial" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/chilipeppers" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/chilipeppers/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@RedHotChiliPeppers" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

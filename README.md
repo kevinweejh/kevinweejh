@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://lastfm.freetls.fastly.net/i/u/ar0/964b3396ee4ddca61345e7230ef60805.jpg" alt="SUPER BEAVER Image" width="200"/>
+        <img src="https://pbs.twimg.com/media/F_29dy0aQAA43bb?format=jpg&name=4096x4096" alt="BAND-MAID Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://super-beaver.com/" target="_blank" rel="noopener noreferrer">SUPER BEAVER</a></h2>
-    <h3 align="center">Song: 突破口</h3>
+    <h2 align="center">Artist: <a href="https://bandmaid.tokyo/" target="_blank" rel="noopener noreferrer">BAND-MAID</a></h2>
+    <h3 align="center">Song: Influencer</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    My first encounter with SUPER BEAVER was at MetRock 2024 in Tokyo, and all I can say is that this right here is a proper rock band that gets the crowd going. Powerful vocals, exciting riffs, packaged well with amazing live delivery - and their fans are crazy in the best way possible.
+    Discovering BAND-MAID back in 2017 felt like I had struck gold. As the saying goes: 'Rock was born in America, grew up in England, and was perfected in Japan.'
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=q_N47EU9Ank" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW?si=217f6d46e5f04af9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E7%AA%81%E7%A0%B4%E5%8F%A3/1548496866?i=1548496869" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=e_bEf1C0spY" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ?si=c6383e492e5844e8" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/influencer/1643608830?i=1643608837" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow SUPER BEAVER</h3>
+    <h3 align="center">Follow BAND-MAID</h3>
     <p align="center">
-        <a href="https://x.com/super_beaver" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/superbeaver_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/bandmaid" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/bandmaid.jp/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCJToUvYrmkmTCR-bluEaQfA" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://cdns-images.dzcdn.net/images/artist/61bcbf8296b1669499064406c534d39d/500x500.jpg" alt="ずっと真夜中でいいのに。 Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/7/7f/Naked_promo.jpeg/revision/latest?cb=20230323084039" alt="CHANMINA Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://zutomayo.net/" target="_blank" rel="noopener noreferrer">ずっと真夜中でいいのに。</a></h2>
-    <h3 align="center">Song: 綺羅キラー</h3>
+    <h2 align="center">Artist: <a href="https://chanmina.com/" target="_blank" rel="noopener noreferrer">CHANMINA</a></h2>
+    <h3 align="center">Song: Biscuit</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    ずっと真夜中でいいのに。(ZUTOMAYO) is a secretive band that conceals their identities. However, it's quite impossible to conceal the overflowing talent this group oozes with. Their songs are characterised by punchy basslines, punctuated with game noises, and vocals take make you feel like they're running around you in circles really quickly.
+    CHANMINA is Japanese-Korean artist whose music, you can immediately tell once you watch and listen to her, is a very unapologetically her. Being able to perfectly speak and perform in both Japanese and Korean definitely adds to her uniqueness as an artist.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=e5LaKxJVeVI" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/5nnIVX0gjyABWN0JYlNOUE?si=d61f098500474993" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E7%B6%BA%E7%BE%85%E3%82%AD%E3%83%A9%E3%83%BC-feat-mori-calliope/1688968525?i=1688968536" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=hkx4u4Irdos" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV?si=23ef3d7313b249e4" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/us/album/biscuit-single/1715476407" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow ずっと真夜中でいいのに。</h3>
+    <h3 align="center">Follow CHANMINA</h3>
     <p align="center">
-        <a href="https://x.com/zutomayo" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/zutomayo/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@ZUTOMAYO" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/CHANMINA1014" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/minachanxx/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UConh1BwKagscq7EAP2Vng-g" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

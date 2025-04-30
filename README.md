@@ -58,7 +58,7 @@
         <img src="https://static.wixstatic.com/media/66144e_af4ab0adf9634d01b2864e1ae2acb185~mv2.jpg/v1/crop/x_0,y_33,w_3000,h_2935/fill/w_459,h_449,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%5B%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%5D%20%EC%9C%A0%EB%9D%BC%20(youra)_Rawww.jpg" alt="유라 Image" width="200"/>
     </p>
     <h2 align="center">Artist: <a href="https://www.munhwain.kr/youra" target="_blank" rel="noopener noreferrer">유라</a></h2>
-    <h3 align="center">Song: Rawww</h3>
+    <h3 align="center">Song: Best regards</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
@@ -69,9 +69,9 @@
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=i7uuvqTq9Bo" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K?si=86c92bd5588743b4" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/kr/album/rawww/1594541806?i=1594541810" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=Euw4ZQyi4K8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/3owGb3JGbkRAWZjnCBj3Ic?si=886c586fef074604" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/best-regards/1612409599?i=1612409607" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
     <h3 align="center">Follow 유라</h3>
     <p align="center">

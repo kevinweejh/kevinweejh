@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa685cfb0-24a5-4719-a41a-1071133ec81d.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1" alt="Vulfpeck Image" width="200"/>
+        <img src="https://pbs.twimg.com/media/F8Ttqr9aAAA6hjX?format=jpg&name=large" alt="QWER Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.vulfpeck.com/" target="_blank" rel="noopener noreferrer">Vulfpeck</a></h2>
-    <h3 align="center">Song: Animal Spirits</h3>
+    <h2 align="center">Artist: <a href="https://kprofiles.com/qwer-members-profile/" target="_blank" rel="noopener noreferrer">QWER</a></h2>
+    <h3 align="center">Song: Discord</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Release a silent album to fund an admission-free tour? Sell out MSG without a manager or label? Rotating roster of some of the most talented musicians? No rehearsals before the show, yet still delivering? What more can you ask for?
+    QWER is a rising star in the pop-rock music scene in South Korea. Their roster is stacked with social media personalities and a former member of a Japanese idol group, but don't let that fool you. Their music is energetic and fun, and it is amazing to watch how quickly each of the members are honing their craft.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=qTUnDV3MgVQ" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/2ZjJ20kWjdhqjzPMMG3QIo?si=2dcf424d16da4038" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/animal-spirits-live-at-madison-square-garden-feat-theo/1489229464?i=1489229934" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://youtu.be/Ieb8IOiFfhk?t=220" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC?si=d36ec1b2e3784e64" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/discord/1711740153?i=1711740155" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Vulfpeck</h3>
+    <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="https://x.com/vulfpeck" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/vulfpeck/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@Vulf" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/official_QWER" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/qwerband_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@QWER_Band_official" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

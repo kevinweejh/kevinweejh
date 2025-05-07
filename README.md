@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/kpop/images/1/16/QWER_Manito_group_concept_photo_1.png/revision/latest/scale-to-width-down/1000?cb=20240327112956" alt="QWER Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/2/2e/Ryokuoushoku-2023-03.jpg/revision/latest?cb=20230329213050" alt="緑黄色社会 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://kprofiles.com/qwer-members-profile/" target="_blank" rel="noopener noreferrer">QWER</a></h2>
-    <h3 align="center">Song: G9JB</h3>
+    <h2 align="center">Artist: <a href="https://www.ryokushaka.com/" target="_blank" rel="noopener noreferrer">緑黄色社会</a></h2>
+    <h3 align="center">Song: merry-go-round</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    QWER is a rising star in the pop-rock music scene in South Korea. Their roster is stacked with social media personalities and a former member of a Japanese idol group, but don't let that fool you. Their music is energetic and fun, and it is amazing to watch how quickly each of the members are honing their craft.
+    Everything about this band is just peak musicianship, the perfect balance of vocals, keyboards, guitar and bass that is written and performed scarily well together. I feel insanely blessed to have had the chance to see them live.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=IxOZJqMgaOM" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/3wfx8yT3cr1gfD1HZp026n?si=2eeba832e8484172" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/kr/album/%EC%A7%80%EA%B5%AC%EC%A0%95%EB%B3%B5/1737366584?i=1737366709" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=Lf4EAHI534w" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/56kt9vPQB4ghnVMUBYedwN?si=633b5e53c4934d2f" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/merry-go-round/1600658811?i=1600659251" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow QWER</h3>
+    <h3 align="center">Follow 緑黄色社会</h3>
     <p align="center">
-        <a href="https://twitter.com/official_QWER" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/qwerband_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@QWER_Band_official" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/ryokushaka" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/ryokushaka_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@ryokuoushokushakai" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

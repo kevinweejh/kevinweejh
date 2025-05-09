@@ -58,7 +58,7 @@
         <img src="https://pbs.twimg.com/media/F_29dy0aQAA43bb?format=jpg&name=4096x4096" alt="BAND-MAID Image" width="200"/>
     </p>
     <h2 align="center">Artist: <a href="https://bandmaid.tokyo/" target="_blank" rel="noopener noreferrer">BAND-MAID</a></h2>
-    <h3 align="center">Song: Choose me</h3>
+    <h3 align="center">Song: Influencer</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
@@ -69,9 +69,9 @@
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=HcqitbXgigU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/130dsYbbXp9jQnETiJ7axI?si=1949ec668b4a48c8" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/choose-me/1253769455?i=1253770874" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=e_bEf1C0spY" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ?si=c6383e492e5844e8" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/influencer/1643608830?i=1643608837" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
     <h3 align="center">Follow BAND-MAID</h3>
     <p align="center">

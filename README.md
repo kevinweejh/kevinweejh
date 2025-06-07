@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/6/63/Higuchi_Ai.jpg/revision/latest?cb=20220126031000" alt="Higuchi Ai Image" width="200"/>
+        <img src="https://www.esplanade.com/-/media/Esplanade/Images/Whats-On/festival-and-series/2024/mosaic/hitsujibungaku-01.ashx?rev=aea5224b98614c5c9d47118614481745&hash=DEB7A175DB44D5FBCF82C4888F2BE932" alt="羊文学 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.higuchiai.com/" target="_blank" rel="noopener noreferrer">Higuchi Ai</a></h2>
-    <h3 align="center">Song: 悪魔の子</h3>
+    <h2 align="center">Artist: <a href="https://www.hitsujibungaku.info/" target="_blank" rel="noopener noreferrer">羊文学</a></h2>
+    <h3 align="center">Song: Addiction</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Higuchi Ai's phenomenal performance on the 7th ED for anime Attack on Titan cemented her place as one of the greats. The pain that she conveys in this performance gives me the chills, every single time.
+    羊文学 (Hitsujibungaku) entered my life with their performance for the 2nd ED for the Shibuya Incident Arc of Jujutsu Kaisen S2. Later, I saw them perform at MetRock 2024 in Tokyo, and it immediately became extremely clear to me that this trio is truly something special. 
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=eLBhEn8PwA8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y?si=a972ac36e7ea487d" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E6%82%AA%E9%AD%94%E3%81%AE%E5%AD%90/1601391183?i=1601391184" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=AteWl40-UP8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/4OqMFjnROd98SGfvR2lOdu?si=711cb2857d404832" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/addiction/1714742640?i=1714742650" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Higuchi Ai</h3>
+    <h3 align="center">Follow 羊文学</h3>
     <p align="center">
-        <a href="https://x.com/HiguchiAi" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/higuchiai.1128/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@AiHiguchiOfficial" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/Hitsujibungaku" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/hitsujibungaku/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCm0qsuAG6RN2FYKZ_r1nPyg" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

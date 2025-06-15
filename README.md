@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCYod9S7n_rsKfGgQsqZvboYbzDADqH6iaEObEaC4rUEIw7zEA" alt="Toaka Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/a/a0/Coshu2024.jpg/revision/latest/scale-to-width-down/1000?cb=20240306191303" alt="Cö Shu Nie Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://billboardphilippines.com/music/features/get-to-know-toaka-6-facts-about-radwimps-special-guest-for-their-first-manila-concert-this-may-2024/" target="_blank" rel="noopener noreferrer">Toaka</a></h2>
-    <h3 align="center">Song: 灰かぶり</h3>
+    <h2 align="center">Artist: <a href="https://coshunie.com/s/n108/?ima=0534" target="_blank" rel="noopener noreferrer">Cö Shu Nie</a></h2>
+    <h3 align="center">Song: 絶体絶命</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    I am positively certain that Toaka's voice in the song 'Suzume' contributed to a non-negligible portion of box office revenue for the film of the same name. Amazing movie, by the way.
+    Cö Shu Nie has one of the most beautiful mixes of captivating vocals, punchy bass, and eclectic guitar sounds. Listening to any of their albums all the way through is surely a trip.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=rtFIEVMgj7A" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4?si=7be4920ad6de495a" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E7%81%B0%E3%81%8B%E3%81%B6%E3%82%8A/1693338508?i=1693338586" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=cZ3u68D3Ee0" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/305Bg2oa93WP3EG1PmjnWF?si=d2acf1c090fa473b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD/1535627788?i=1535627791" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Toaka</h3>
+    <h3 align="center">Follow Cö Shu Nie</h3>
     <p align="center">
-        <a href="https://twitter.com/toaka_desu" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/toaka_desu/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCx5hlI4urmu35mHlNFw2UFw" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/co_shu_nie" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/coshunie_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@coshunie_official" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

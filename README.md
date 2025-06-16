@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/a/a0/Coshu2024.jpg/revision/latest/scale-to-width-down/1000?cb=20240306191303" alt="Cö Shu Nie Image" width="200"/>
+        <img src="https://lastfm.freetls.fastly.net/i/u/ar0/964b3396ee4ddca61345e7230ef60805.jpg" alt="SUPER BEAVER Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://coshunie.com/s/n108/?ima=0534" target="_blank" rel="noopener noreferrer">Cö Shu Nie</a></h2>
-    <h3 align="center">Song: 絶体絶命</h3>
+    <h2 align="center">Artist: <a href="https://super-beaver.com/" target="_blank" rel="noopener noreferrer">SUPER BEAVER</a></h2>
+    <h3 align="center">Song: 名前を呼ぶよ</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Cö Shu Nie has one of the most beautiful mixes of captivating vocals, punchy bass, and eclectic guitar sounds. Listening to any of their albums all the way through is surely a trip.
+    My first encounter with SUPER BEAVER was at MetRock 2024 in Tokyo, and all I can say is that this right here is a proper rock band that gets the crowd going. Powerful vocals, exciting riffs, packaged well with amazing live delivery - and their fans are crazy in the best way possible.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=cZ3u68D3Ee0" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/305Bg2oa93WP3EG1PmjnWF?si=d2acf1c090fa473b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD/1535627788?i=1535627791" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=Tulqzye9-zQ" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/61tkY9HqmsQ5Apirrp3cHL?si=2606b4f2039d4a34" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E5%90%8D%E5%89%8D%E3%82%92%E5%91%BC%E3%81%B6%E3%82%88/1571275094?i=1571275106" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Cö Shu Nie</h3>
+    <h3 align="center">Follow SUPER BEAVER</h3>
     <p align="center">
-        <a href="https://x.com/co_shu_nie" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/coshunie_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@coshunie_official" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/super_beaver" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/superbeaver_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

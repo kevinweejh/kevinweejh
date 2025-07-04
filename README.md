@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://pbs.twimg.com/media/F8Ttqr9aAAA6hjX?format=jpg&name=large" alt="QWER Image" width="200"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmt8J9b4xqo-tFGPdIFM2n6gcn35QPOmw7VA&s" alt="HYDE Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://kprofiles.com/qwer-members-profile/" target="_blank" rel="noopener noreferrer">QWER</a></h2>
-    <h3 align="center">Song: Discord</h3>
+    <h2 align="center">Artist: <a href="https://www.hyde.com/" target="_blank" rel="noopener noreferrer">HYDE</a></h2>
+    <h3 align="center">Song: DEFEAT</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    QWER is a rising star in the pop-rock music scene in South Korea. Their roster is stacked with social media personalities and a former member of a Japanese idol group, but don't let that fool you. Their music is energetic and fun, and it is amazing to watch how quickly each of the members are honing their craft.
+    The legendary frontman of L'Arc-en-Ciel is in every way, shape and form the quintessential Japanese rockstar. Needless to say, it was breathtaking to watch him live at MetRock 2024 in Tokyo, with the entire crowd in the palm of his hand.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://youtu.be/Ieb8IOiFfhk?t=220" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC?si=d36ec1b2e3784e64" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/kr/album/discord/1711740153?i=1711740155" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=fWTRBsNHzco" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/65Ms5sOARUN42rMOlIi5D0?si=01db7efa20df45c5" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/defeat/1544371422?i=1544371425" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow QWER</h3>
+    <h3 align="center">Follow HYDE</h3>
     <p align="center">
-        <a href="https://twitter.com/official_QWER" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/qwerband_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@QWER_Band_official" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/HydeOfficial_" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/hydeofficial/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCPiJhfvRuQqQofd3xSZBQ1A" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

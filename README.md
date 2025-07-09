@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa685cfb0-24a5-4719-a41a-1071133ec81d.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1" alt="Vulfpeck Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/6/63/Higuchi_Ai.jpg/revision/latest?cb=20220126031000" alt="Higuchi Ai Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.vulfpeck.com/" target="_blank" rel="noopener noreferrer">Vulfpeck</a></h2>
-    <h3 align="center">Song: Dean Town</h3>
+    <h2 align="center">Artist: <a href="https://www.higuchiai.com/" target="_blank" rel="noopener noreferrer">Higuchi Ai</a></h2>
+    <h3 align="center">Song: 永遠</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Release a silent album to fund an admission-free tour? Sell out MSG without a manager or label? Rotating roster of some of the most talented musicians? No rehearsals before the show, yet still delivering? What more can you ask for?
+    Higuchi Ai first came onto my radar when she performed the 7th ED for anime Attack on Titan. Whether it is a longing sadness or an exhilarating rush, her ability to imbue emotions in her voice is absolutely incredible, you'll have to hear it for yourself to understand.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=rhxQoDlt2AU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/7MNhvUp3m9ZZLVnpiRtUjJ?si=715417f1662249fb" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/dean-town-live-at-madison-square-garden/1489229464?i=1489231194" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=AkXOF_lr2_M" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/0JtH3WikNHPpzQwoLO9t5I?si=aad226ae836441fc" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E6%B0%B8%E9%81%A0/1390414655?i=1390414657" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Vulfpeck</h3>
+    <h3 align="center">Follow Higuchi Ai</h3>
     <p align="center">
-        <a href="https://x.com/vulfpeck" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/vulfpeck/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@Vulf" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/HiguchiAi" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/higuchiai.1128/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@AiHiguchiOfficial" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://images.lifestyleasia.com/wp-content/uploads/sites/2/2024/03/15140557/japanese-singer-lisa-hong-kong-concert-2024-1600x900.jpg" alt="LiSA Image" width="200"/>
+        <img src="https://i1.sndcdn.com/avatars-Ox9LTYFVFHTw97CV-Km1e5w-t240x240.jpg" alt="Su Lee Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.lxixsxa.com/" target="_blank" rel="noopener noreferrer">LiSA</a></h2>
-    <h3 align="center">Song: REALiZE</h3>
+    <h2 align="center">Artist: <a href="https://www.youtube.com/channel/UCh0H_Bie0cJ5zpat63aJ1dQ" target="_blank" rel="noopener noreferrer">Su Lee</a></h2>
+    <h3 align="center">Song: Sleepy Hollow</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    With Demon Slayer, Sword Art Online under her belt, LiSA is considered by many to be the queen of anime openings. Rightfully so, her unmistakably powerful, and at times deeply emotional, vocals has gone on to inspire many Japanese artists in the years since she came onto the scene. Her music is truly a gift to the community.
+    The bedroom musician that slayed so hard she made it out of the bedroom, and continues to slay.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=-A0ICz6rVvU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8?si=03dbb115c6584ec1" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/realize/1689530598?i=1689530604" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=-dkdi-tCEw0" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/54daOX8MkszVCTYNjog8aE?si=11b573e01fc34489" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/sleepy-hollow/1653422125?i=1653422133" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow LiSA</h3>
+    <h3 align="center">Follow Su Lee</h3>
     <p align="center">
-        <a href="https://twitter.com/LiSA_OLiVE" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/xlisa_olivex" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/suleesususu" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/suleesusu/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCh0H_Bie0cJ5zpat63aJ1dQ" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCYod9S7n_rsKfGgQsqZvboYbzDADqH6iaEObEaC4rUEIw7zEA" alt="Toaka Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/6/63/Higuchi_Ai.jpg/revision/latest?cb=20220126031000" alt="Higuchi Ai Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://billboardphilippines.com/music/features/get-to-know-toaka-6-facts-about-radwimps-special-guest-for-their-first-manila-concert-this-may-2024/" target="_blank" rel="noopener noreferrer">Toaka</a></h2>
-    <h3 align="center">Song: 灰かぶり</h3>
+    <h2 align="center">Artist: <a href="https://www.higuchiai.com/" target="_blank" rel="noopener noreferrer">Higuchi Ai</a></h2>
+    <h3 align="center">Song: 悪魔の子</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    I am positively certain that Toaka's voice in the song 'Suzume' contributed to a non-negligible portion of box office revenue for the film of the same name. Amazing movie, by the way.
+    Higuchi Ai's phenomenal performance on the 7th ED for anime Attack on Titan cemented her place as one of the greats. The pain that she conveys in this performance gives me the chills, every single time.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=rtFIEVMgj7A" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4?si=7be4920ad6de495a" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E7%81%B0%E3%81%8B%E3%81%B6%E3%82%8A/1693338508?i=1693338586" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=eLBhEn8PwA8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y?si=a972ac36e7ea487d" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E6%82%AA%E9%AD%94%E3%81%AE%E5%AD%90/1601391183?i=1601391184" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Toaka</h3>
+    <h3 align="center">Follow Higuchi Ai</h3>
     <p align="center">
-        <a href="https://twitter.com/toaka_desu" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/toaka_desu/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCx5hlI4urmu35mHlNFw2UFw" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/HiguchiAi" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/higuchiai.1128/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@AiHiguchiOfficial" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

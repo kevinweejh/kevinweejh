@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://pbs.twimg.com/media/F_29dy0aQAA43bb?format=jpg&name=4096x4096" alt="BAND-MAID Image" width="200"/>
+        <img src="https://images.lifestyleasia.com/wp-content/uploads/sites/2/2024/03/15140557/japanese-singer-lisa-hong-kong-concert-2024-1600x900.jpg" alt="LiSA Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://bandmaid.tokyo/" target="_blank" rel="noopener noreferrer">BAND-MAID</a></h2>
-    <h3 align="center">Song: Choose me</h3>
+    <h2 align="center">Artist: <a href="https://www.lxixsxa.com/" target="_blank" rel="noopener noreferrer">LiSA</a></h2>
+    <h3 align="center">Song: Shouted Serenade</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Discovering BAND-MAID back in 2017 felt like I had struck gold. As the saying goes: 'Rock was born in America, grew up in England, and was perfected in Japan.'
+    With Demon Slayer, Sword Art Online under her belt, LiSA is considered by many to be the queen of anime openings. Rightfully so, her unmistakably powerful, and at times deeply emotional, vocals has gone on to inspire many Japanese artists in the years since she came onto the scene. Her music is truly a gift to the community.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=HcqitbXgigU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/130dsYbbXp9jQnETiJ7axI?si=1949ec668b4a48c8" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/choose-me/1253769455?i=1253770874" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=fR7e0N1UkRI" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov?si=8e1b06d961a44943" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/shouted-serenade/1737736346?i=1737736349" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow BAND-MAID</h3>
+    <h3 align="center">Follow LiSA</h3>
     <p align="center">
-        <a href="https://x.com/bandmaid" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/bandmaid.jp/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCJToUvYrmkmTCR-bluEaQfA" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/LiSA_OLiVE" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/xlisa_olivex" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

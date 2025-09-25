@@ -58,7 +58,7 @@
         <img src="https://static.wikia.nocookie.net/jpop/images/6/63/Higuchi_Ai.jpg/revision/latest?cb=20220126031000" alt="Higuchi Ai Image" width="200"/>
     </p>
     <h2 align="center">Artist: <a href="https://www.higuchiai.com/" target="_blank" rel="noopener noreferrer">Higuchi Ai</a></h2>
-    <h3 align="center">Song: 永遠</h3>
+    <h3 align="center">Song: コインロッカーにて</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
@@ -69,9 +69,9 @@
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=AkXOF_lr2_M" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/0JtH3WikNHPpzQwoLO9t5I?si=aad226ae836441fc" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E6%B0%B8%E9%81%A0/1390414655?i=1390414657" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=jCVMRVuIsds" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/3HDEDWtVoozk7I2yvdoy9m?si=d9cc7b61ad93457f" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/song/%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E3%81%A6/1390414658" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
     <h3 align="center">Follow Higuchi Ai</h3>
     <p align="center">

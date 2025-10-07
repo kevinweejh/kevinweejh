@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://yt3.googleusercontent.com/nAeaDycSjYP1nXS4gfcj93eeTDXFPrrBWKLdhi0_xkXQjS3gXnHBOHJcDwVoQkDnW7_23qJwRg=s900-c-k-c0x00ffffff-no-rj" alt="乃紫 Image" width="200"/>
+        <img src="https://lastfm.freetls.fastly.net/i/u/ar0/964b3396ee4ddca61345e7230ef60805.jpg" alt="SUPER BEAVER Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://noa.fanpla.jp/" target="_blank" rel="noopener noreferrer">乃紫</a></h2>
-    <h3 align="center">Song: 初恋キラー</h3>
+    <h2 align="center">Artist: <a href="https://super-beaver.com/" target="_blank" rel="noopener noreferrer">SUPER BEAVER</a></h2>
+    <h3 align="center">Song: 突破口</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Not much to say, other than I was plesantly surprised to hear 乃紫 (noa) playing while eating in a Sukiya somewhere in Shinjuku. Definitely an artist on my radar for new music.
+    My first encounter with SUPER BEAVER was at MetRock 2024 in Tokyo, and all I can say is that this right here is a proper rock band that gets the crowd going. Powerful vocals, exciting riffs, packaged well with amazing live delivery - and their fans are crazy in the best way possible.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://youtu.be/BBVIxwazmkY?si=CEYrjfO2lDSiRV8y" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/0l9OsLo35t2HgSqLkJMT4G?si=b3f3866d048447f8" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E5%88%9D%E6%81%8B%E3%82%AD%E3%83%A9%E3%83%BC/1740947733?i=1740947970" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=q_N47EU9Ank" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW?si=217f6d46e5f04af9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E7%AA%81%E7%A0%B4%E5%8F%A3/1548496866?i=1548496869" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow 乃紫</h3>
+    <h3 align="center">Follow SUPER BEAVER</h3>
     <p align="center">
-        <a href="https://x.com/___aburasoba" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/noa_aburasoba/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@noa_aburasoba" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/super_beaver" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/superbeaver_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

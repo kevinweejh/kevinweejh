@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/2/2e/Ryokuoushoku-2023-03.jpg/revision/latest?cb=20230329213050" alt="緑黄色社会 Image" width="200"/>
+        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCYod9S7n_rsKfGgQsqZvboYbzDADqH6iaEObEaC4rUEIw7zEA" alt="Toaka Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.ryokushaka.com/" target="_blank" rel="noopener noreferrer">緑黄色社会</a></h2>
-    <h3 align="center">Song: 花になって</h3>
+    <h2 align="center">Artist: <a href="https://billboardphilippines.com/music/features/get-to-know-toaka-6-facts-about-radwimps-special-guest-for-their-first-manila-concert-this-may-2024/" target="_blank" rel="noopener noreferrer">Toaka</a></h2>
+    <h3 align="center">Song: Suzume</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Everything about this band is just peak musicianship, the perfect balance of vocals, keyboards, guitar and bass that is written and performed scarily well together. I feel insanely blessed to have had the chance to see them live.
+    I am positively certain that Toaka's voice in the song 'Suzume' contributed to a non-negligible portion of box office revenue for the film of the same name. Amazing movie, by the way.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=BQ2MmNWV0uM" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg?si=7d55a10700724146" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6-be-a-flower/1711411576?i=1711411579" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://youtu.be/UmkxTv3sHEc?t=61" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5?si=8513707619654b22" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E3%81%99%E3%81%9A%E3%82%81-feat-%E5%8D%81%E6%98%8E/1646939421?i=1646939428" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow 緑黄色社会</h3>
+    <h3 align="center">Follow Toaka</h3>
     <p align="center">
-        <a href="https://x.com/ryokushaka" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/ryokushaka_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@ryokuoushokushakai" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/toaka_desu" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/toaka_desu/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCx5hlI4urmu35mHlNFw2UFw" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

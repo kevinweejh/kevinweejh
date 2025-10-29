@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/e/e9/Conton_Candy.jpg/revision/latest/scale-to-width-down/1000?cb=20210725190649" alt="Conton Candy Image" width="200"/>
+        <img src="https://lastfm.freetls.fastly.net/i/u/ar0/964b3396ee4ddca61345e7230ef60805.jpg" alt="SUPER BEAVER Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://lit.link/en/contoncandy" target="_blank" rel="noopener noreferrer">Conton Candy</a></h2>
-    <h3 align="center">Song: リップシンク</h3>
+    <h2 align="center">Artist: <a href="https://super-beaver.com/" target="_blank" rel="noopener noreferrer">SUPER BEAVER</a></h2>
+    <h3 align="center">Song: 突破口</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Conton Candy is a breath of fresh air within the Japanese Pop/Rock scene. Their music is catchy with a surprisingly energetic bass line. Having seen them live at MetRock 2024 in Tokyo, I am certified to say that their live performance (energy + audience interaction) is infectious.
+    My first encounter with SUPER BEAVER was at MetRock 2024 in Tokyo, and all I can say is that this right here is a proper rock band that gets the crowd going. Powerful vocals, exciting riffs, packaged well with amazing live delivery - and their fans are crazy in the best way possible.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=3SFVqbCLxB8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1kyp3dQGHftpJRpRAoY94z?si=f2bb6d90cbd54f40" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%83%AA%E3%83%83%E3%83%97%E3%82%B7%E3%83%B3%E3%82%AF/1704849999?i=1704850207" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=q_N47EU9Ank" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW?si=217f6d46e5f04af9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E7%AA%81%E7%A0%B4%E5%8F%A3/1548496866?i=1548496869" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Conton Candy</h3>
+    <h3 align="center">Follow SUPER BEAVER</h3>
     <p align="center">
-        <a href="https://x.com/Conton_Candy" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/contoncandy_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@ContonCandy" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/super_beaver" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/superbeaver_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

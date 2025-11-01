@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://i8.amplience.net/i/naras/red-hot-chili-peppers_MI0005438739-MN0000883318" alt="Red Hot Chili Peppers Image" width="200"/>
+        <img src="https://static.wixstatic.com/media/66144e_af4ab0adf9634d01b2864e1ae2acb185~mv2.jpg/v1/crop/x_0,y_33,w_3000,h_2935/fill/w_459,h_449,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%5B%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%5D%20%EC%9C%A0%EB%9D%BC%20(youra)_Rawww.jpg" alt="유라 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://redhotchilipeppers.com/" target="_blank" rel="noopener noreferrer">Red Hot Chili Peppers</a></h2>
-    <h3 align="center">Song: By The Way</h3>
+    <h2 align="center">Artist: <a href="https://www.munhwain.kr/youra" target="_blank" rel="noopener noreferrer">유라</a></h2>
+    <h3 align="center">Song: Rawww</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    The Red Hot Chili Peppers is THE band to watch live, it is well and truly a transcendental experience. Their strongest suit by a wide margin is their jams and improvisation that ensure no two performances of a song are ever the same.
+    유라 (youra) is a Korean singer-songwriter whose ability to seamlessly insert her voice into songs from a wide range of genres makes me extremely curious and excited whenever she releases something new. For the musically-curious: Her work with Korean trio Mandong straddles on the border of jazz and psychedelic rock - absolute masterpiece.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=Gtmnt-Ol1UY" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe?si=ac9581e0442f49be" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/by-the-way/945578420?i=945578421" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=i7uuvqTq9Bo" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K?si=86c92bd5588743b4" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/rawww/1594541806?i=1594541810" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Red Hot Chili Peppers</h3>
+    <h3 align="center">Follow 유라</h3>
     <p align="center">
-        <a href="https://x.com/chilipeppers" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/chilipeppers/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@RedHotChiliPeppers" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/you.ra/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCrgmcWsu4pBRmEQz1l5cklQ" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

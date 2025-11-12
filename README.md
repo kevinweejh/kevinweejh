@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://images.lifestyleasia.com/wp-content/uploads/sites/2/2024/03/15140557/japanese-singer-lisa-hong-kong-concert-2024-1600x900.jpg" alt="LiSA Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/babymetal/images/5/56/%40BABYMETAL_JAPAN_Twitter_230402.jpg/revision/latest?cb=20230402104956" alt="BABYMETAL Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.lxixsxa.com/" target="_blank" rel="noopener noreferrer">LiSA</a></h2>
-    <h3 align="center">Song: ADAMAS</h3>
+    <h2 align="center">Artist: <a href="https://babymetal.com/mob/index.php?site=TO&ima=3326" target="_blank" rel="noopener noreferrer">BABYMETAL</a></h2>
+    <h3 align="center">Song: ヘドバンギャー!!</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    With Demon Slayer, Sword Art Online under her belt, LiSA is considered by many to be the queen of anime openings. Rightfully so, her unmistakably powerful, and at times deeply emotional, vocals has gone on to inspire many Japanese artists in the years since she came onto the scene. Her music is truly a gift to the community.
+    The juxtaposition of kawaii metal is not suppose to work this well, but BABYMETAL proves otherwise - very well, in fact.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=v2tmzEuVEz8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/7xsTPnzpEcqCQguRxnBxOR?si=1e41c0a77a654e9c" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/adamas/1537901555?i=1537901887" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://youtu.be/Lfx9T9FzL0U?si=I1iSs--5rdWb3Rl3" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/6lJI7Gy7c8nURVd9PKzriK?si=cfb3e2250c5246ad" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E3%83%98%E3%83%89%E3%83%90%E3%83%B3%E3%82%AE%E3%83%A3%E3%83%BC-10-babymetal-budokan-live/1582402821?i=1582402832" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow LiSA</h3>
+    <h3 align="center">Follow BABYMETAL</h3>
     <p align="center">
-        <a href="https://twitter.com/LiSA_OLiVE" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/xlisa_olivex" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/BABYMETAL_JAPAN" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/babymetal_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@BABYMETAL" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/e/e9/Conton_Candy.jpg/revision/latest/scale-to-width-down/1000?cb=20210725190649" alt="Conton Candy Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/6/63/Higuchi_Ai.jpg/revision/latest?cb=20220126031000" alt="Higuchi Ai Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://lit.link/en/contoncandy" target="_blank" rel="noopener noreferrer">Conton Candy</a></h2>
-    <h3 align="center">Song: ロングスカートは靡いて</h3>
+    <h2 align="center">Artist: <a href="https://www.higuchiai.com/" target="_blank" rel="noopener noreferrer">Higuchi Ai</a></h2>
+    <h3 align="center">Song: 永遠</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Conton Candy is a breath of fresh air within the Japanese Pop/Rock scene. Their music is catchy with a surprisingly energetic bass line. Having seen them live at MetRock 2024 in Tokyo, I am certified to say that their live performance (energy + audience interaction) is infectious.
+    Higuchi Ai first came onto my radar when she performed the 7th ED for anime Attack on Titan. Whether it is a longing sadness or an exhilarating rush, her ability to imbue emotions in her voice is absolutely incredible, you'll have to hear it for yourself to understand.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=xF4TPhya8n8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/3JuyjD9fWqbkUWv19uBZyP?si=50865a7310424aa9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88%E3%81%AF%E9%9D%A1%E3%81%84%E3%81%A6/1588904611?i=1588904921" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=AkXOF_lr2_M" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/0JtH3WikNHPpzQwoLO9t5I?si=aad226ae836441fc" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E6%B0%B8%E9%81%A0/1390414655?i=1390414657" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Conton Candy</h3>
+    <h3 align="center">Follow Higuchi Ai</h3>
     <p align="center">
-        <a href="https://x.com/Conton_Candy" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/contoncandy_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@ContonCandy" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/HiguchiAi" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/higuchiai.1128/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@AiHiguchiOfficial" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

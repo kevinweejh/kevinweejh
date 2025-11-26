@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmt8J9b4xqo-tFGPdIFM2n6gcn35QPOmw7VA&s" alt="HYDE Image" width="200"/>
+        <img src="https://yt3.googleusercontent.com/nAeaDycSjYP1nXS4gfcj93eeTDXFPrrBWKLdhi0_xkXQjS3gXnHBOHJcDwVoQkDnW7_23qJwRg=s900-c-k-c0x00ffffff-no-rj" alt="乃紫 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.hyde.com/" target="_blank" rel="noopener noreferrer">HYDE</a></h2>
-    <h3 align="center">Song: DEFEAT</h3>
+    <h2 align="center">Artist: <a href="https://noa.fanpla.jp/" target="_blank" rel="noopener noreferrer">乃紫</a></h2>
+    <h3 align="center">Song: 先輩</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    The legendary frontman of L'Arc-en-Ciel is in every way, shape and form the quintessential Japanese rockstar. Needless to say, it was breathtaking to watch him live at MetRock 2024 in Tokyo, with the entire crowd in the palm of his hand.
+    Not much to say, other than I was plesantly surprised to hear 乃紫 (noa) playing while eating in a Sukiya somewhere in Shinjuku. Definitely an artist on my radar for new music.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=fWTRBsNHzco" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/65Ms5sOARUN42rMOlIi5D0?si=01db7efa20df45c5" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/defeat/1544371422?i=1544371425" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=xRtX0mZIQRs" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1141uIU9WDqLCjbIbet1eu?si=47c47fda7171493b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E5%85%88%E8%BC%A9/1702140626?i=1702140638" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow HYDE</h3>
+    <h3 align="center">Follow 乃紫</h3>
     <p align="center">
-        <a href="https://x.com/HydeOfficial_" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/hydeofficial/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCPiJhfvRuQqQofd3xSZBQ1A" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/___aburasoba" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/noa_aburasoba/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@noa_aburasoba" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Mori_Calliope.png" alt="Mori Calliope Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/2/2e/Ryokuoushoku-2023-03.jpg/revision/latest?cb=20230329213050" alt="緑黄色社会 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://hololive.hololivepro.com/en/talents/mori-calliope/" target="_blank" rel="noopener noreferrer">Mori Calliope</a></h2>
-    <h3 align="center">Song: Overkill</h3>
+    <h2 align="center">Artist: <a href="https://www.ryokushaka.com/" target="_blank" rel="noopener noreferrer">緑黄色社会</a></h2>
+    <h3 align="center">Song: 花になって</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Mori Calliope is a VTuber who spits fire. What impresses me the most is the way she almost effortlessly blends an aggressive, almost abrasive tone, with crystal clear vocals when it fits.
+    Everything about this band is just peak musicianship, the perfect balance of vocals, keyboards, guitar and bass that is written and performed scarily well together. I feel insanely blessed to have had the chance to see them live.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=J7tp_0lFI0I" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1UlQyJezbjrwRlC2fo3D3i?si=e21595b2739b4598" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/overkill/1730912918?i=1730912923" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=BQ2MmNWV0uM" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg?si=7d55a10700724146" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6-be-a-flower/1711411576?i=1711411579" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Mori Calliope</h3>
+    <h3 align="center">Follow 緑黄色社会</h3>
     <p align="center">
-        <a href="https://twitter.com/moricalliope" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/ryokushaka" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/ryokushaka_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@ryokuoushokushakai" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

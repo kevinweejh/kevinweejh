@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wixstatic.com/media/66144e_af4ab0adf9634d01b2864e1ae2acb185~mv2.jpg/v1/crop/x_0,y_33,w_3000,h_2935/fill/w_459,h_449,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%5B%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%5D%20%EC%9C%A0%EB%9D%BC%20(youra)_Rawww.jpg" alt="유라 Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/kpop/images/1/16/QWER_Manito_group_concept_photo_1.png/revision/latest/scale-to-width-down/1000?cb=20240327112956" alt="QWER Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.munhwain.kr/youra" target="_blank" rel="noopener noreferrer">유라</a></h2>
-    <h3 align="center">Song: Best regards</h3>
+    <h2 align="center">Artist: <a href="https://kprofiles.com/qwer-members-profile/" target="_blank" rel="noopener noreferrer">QWER</a></h2>
+    <h3 align="center">Song: G9JB</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    유라 (youra) is a Korean singer-songwriter whose ability to seamlessly insert her voice into songs from a wide range of genres makes me extremely curious and excited whenever she releases something new. For the musically-curious: Her work with Korean trio Mandong straddles on the border of jazz and psychedelic rock - absolute masterpiece.
+    QWER is a rising star in the pop-rock music scene in South Korea. Their roster is stacked with social media personalities and a former member of a Japanese idol group, but don't let that fool you. Their music is energetic and fun, and it is amazing to watch how quickly each of the members are honing their craft.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=Euw4ZQyi4K8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/3owGb3JGbkRAWZjnCBj3Ic?si=886c586fef074604" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/kr/album/best-regards/1612409599?i=1612409607" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=IxOZJqMgaOM" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/3wfx8yT3cr1gfD1HZp026n?si=2eeba832e8484172" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/%EC%A7%80%EA%B5%AC%EC%A0%95%EB%B3%B5/1737366584?i=1737366709" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow 유라</h3>
+    <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/you.ra/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCrgmcWsu4pBRmEQz1l5cklQ" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/official_QWER" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/qwerband_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@QWER_Band_official" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

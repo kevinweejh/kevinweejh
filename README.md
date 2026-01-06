@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://i.scdn.co/image/ab6761610000517483e2d0c9611f1fb6baafcb36" alt="YOASOBI Image" width="200"/>
+        <img src="https://pbs.twimg.com/media/F8Ttqr9aAAA6hjX?format=jpg&name=large" alt="QWER Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.yoasobi-music.jp/" target="_blank" rel="noopener noreferrer">YOASOBI</a></h2>
-    <h3 align="center">Song: アイドル</h3>
+    <h2 align="center">Artist: <a href="https://kprofiles.com/qwer-members-profile/" target="_blank" rel="noopener noreferrer">QWER</a></h2>
+    <h3 align="center">Song: Discord</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    YOASOBI is a Japanese pop duo that, in my opinion, has only released bangers since their formation in 2019. Their sound is unmistakable, extremely catchy, and simply infectious. Sincerely, I long for the day I get to see them live, to soak in the magic of the YOASOBI experience.
+    QWER is a rising star in the pop-rock music scene in South Korea. Their roster is stacked with social media personalities and a former member of a Japanese idol group, but don't let that fool you. Their music is energetic and fun, and it is amazing to watch how quickly each of the members are honing their craft.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=RzXTe-QfWTw" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt?si=6a6b5bdfdd1f4785" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/1679278166?i=1679278167" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://youtu.be/Ieb8IOiFfhk?t=220" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC?si=d36ec1b2e3784e64" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/discord/1711740153?i=1711740155" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow YOASOBI</h3>
+    <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="https://twitter.com/YOASOBI_staff" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/yoasobi_staff_/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@Ayase_YOASOBI" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/official_QWER" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/qwerband_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@QWER_Band_official" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

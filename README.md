@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://cdns-images.dzcdn.net/images/artist/61bcbf8296b1669499064406c534d39d/500x500.jpg" alt="ずっと真夜中でいいのに。 Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/kpop/images/1/16/QWER_Manito_group_concept_photo_1.png/revision/latest/scale-to-width-down/1000?cb=20240327112956" alt="QWER Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://zutomayo.net/" target="_blank" rel="noopener noreferrer">ずっと真夜中でいいのに。</a></h2>
-    <h3 align="center">Song: 勘冴えて悔しいわ</h3>
+    <h2 align="center">Artist: <a href="https://kprofiles.com/qwer-members-profile/" target="_blank" rel="noopener noreferrer">QWER</a></h2>
+    <h3 align="center">Song: G9JB</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    ずっと真夜中でいいのに。(ZUTOMAYO) is a secretive band that conceals their identities. However, it's quite impossible to conceal the overflowing talent this group oozes with. Their songs are characterised by punchy basslines, punctuated with game noises, and vocals take make you feel like they're running around you in circles really quickly.
+    QWER is a rising star in the pop-rock music scene in South Korea. Their roster is stacked with social media personalities and a former member of a Japanese idol group, but don't let that fool you. Their music is energetic and fun, and it is amazing to watch how quickly each of the members are honing their craft.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=4QePrv24TBU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp?si=9052ce5654064bc3" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E5%8B%98%E5%86%B4%E3%81%88%E3%81%A6%E6%82%94%E3%81%97%E3%81%84%E3%82%8F/1481464093?i=1481464101" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=IxOZJqMgaOM" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/3wfx8yT3cr1gfD1HZp026n?si=2eeba832e8484172" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/%EC%A7%80%EA%B5%AC%EC%A0%95%EB%B3%B5/1737366584?i=1737366709" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow ずっと真夜中でいいのに。</h3>
+    <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="https://x.com/zutomayo" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/zutomayo/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@ZUTOMAYO" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/official_QWER" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/qwerband_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@QWER_Band_official" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

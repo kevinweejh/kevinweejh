@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRihzOuZnaaKV273aqd3I-9zWb4nZBK8HbCscaGR4fQMJ-e5Dn" alt="IVE Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/babymetal/images/5/56/%40BABYMETAL_JAPAN_Twitter_230402.jpg/revision/latest?cb=20230402104956" alt="BABYMETAL Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://kprofiles.com/ive-members-profile/" target="_blank" rel="noopener noreferrer">IVE</a></h2>
-    <h3 align="center">Song: Accendio</h3>
+    <h2 align="center">Artist: <a href="https://babymetal.com/mob/index.php?site=TO&ima=3326" target="_blank" rel="noopener noreferrer">BABYMETAL</a></h2>
+    <h3 align="center">Song: シンコペーション</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    You can try (and fail) to convince me that Accendio is the best K-Pop song released in 2024 so far.
+    The juxtaposition of kawaii metal is not suppose to work this well, but BABYMETAL proves otherwise - very well, in fact.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=J6qEYwwCgoE" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf?si=544c7c0b08b2426b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/kr/album/accendio/1743111714?i=1743111720" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=Odb9Zy0YdOc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/0dTrBPFN7wozVdVhqUFcP5?si=185a9914237a4bdb" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E3%82%B7%E3%83%B3%E3%82%B3%E3%83%9A%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/1083834486?i=1083835787" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow IVE</h3>
+    <h3 align="center">Follow BABYMETAL</h3>
     <p align="center">
-        <a href="https://twitter.com/IVE_twt" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/ivestarship" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UC-Fnix71vRP64WXeo0ikd0Q" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/BABYMETAL_JAPAN" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/babymetal_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@BABYMETAL" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

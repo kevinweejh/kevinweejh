@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://lastfm.freetls.fastly.net/i/u/ar0/964b3396ee4ddca61345e7230ef60805.jpg" alt="SUPER BEAVER Image" width="200"/>
+        <img src="https://www.esplanade.com/-/media/Esplanade/Images/Whats-On/festival-and-series/2024/mosaic/hitsujibungaku-01.ashx?rev=aea5224b98614c5c9d47118614481745&hash=DEB7A175DB44D5FBCF82C4888F2BE932" alt="羊文学 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://super-beaver.com/" target="_blank" rel="noopener noreferrer">SUPER BEAVER</a></h2>
-    <h3 align="center">Song: 名前を呼ぶよ</h3>
+    <h2 align="center">Artist: <a href="https://www.hitsujibungaku.info/" target="_blank" rel="noopener noreferrer">羊文学</a></h2>
+    <h3 align="center">Song: Addiction</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    My first encounter with SUPER BEAVER was at MetRock 2024 in Tokyo, and all I can say is that this right here is a proper rock band that gets the crowd going. Powerful vocals, exciting riffs, packaged well with amazing live delivery - and their fans are crazy in the best way possible.
+    羊文学 (Hitsujibungaku) entered my life with their performance for the 2nd ED for the Shibuya Incident Arc of Jujutsu Kaisen S2. Later, I saw them perform at MetRock 2024 in Tokyo, and it immediately became extremely clear to me that this trio is truly something special. 
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=Tulqzye9-zQ" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/61tkY9HqmsQ5Apirrp3cHL?si=2606b4f2039d4a34" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E5%90%8D%E5%89%8D%E3%82%92%E5%91%BC%E3%81%B6%E3%82%88/1571275094?i=1571275106" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=AteWl40-UP8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/4OqMFjnROd98SGfvR2lOdu?si=711cb2857d404832" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/addiction/1714742640?i=1714742650" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow SUPER BEAVER</h3>
+    <h3 align="center">Follow 羊文学</h3>
     <p align="center">
-        <a href="https://x.com/super_beaver" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/superbeaver_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/Hitsujibungaku" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/hitsujibungaku/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCm0qsuAG6RN2FYKZ_r1nPyg" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

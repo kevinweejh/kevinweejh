@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/babymetal/images/5/56/%40BABYMETAL_JAPAN_Twitter_230402.jpg/revision/latest?cb=20230402104956" alt="BABYMETAL Image" width="200"/>
+        <img src="https://i8.amplience.net/i/naras/red-hot-chili-peppers_MI0005438739-MN0000883318" alt="Red Hot Chili Peppers Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://babymetal.com/mob/index.php?site=TO&ima=3326" target="_blank" rel="noopener noreferrer">BABYMETAL</a></h2>
-    <h3 align="center">Song: イジメ、ダメ、ゼッタイ</h3>
+    <h2 align="center">Artist: <a href="https://redhotchilipeppers.com/" target="_blank" rel="noopener noreferrer">Red Hot Chili Peppers</a></h2>
+    <h3 align="center">Song: Under The Bridge</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    The juxtaposition of kawaii metal is not suppose to work this well, but BABYMETAL proves otherwise - very well, in fact.
+    The Red Hot Chili Peppers is THE band to watch live, it is well and truly a transcendental experience. Their strongest suit by a wide margin is their jams and improvisation that ensure no two performances of a song are ever the same.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://youtu.be/boYwMFlRapk?si=g4btwynRjZqjP9c3" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/6cwdJl1MNb1sMiCWYnSG6M?si=4759cc0917be40fb" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%A4%E3%82%B8%E3%83%A1-%E3%83%80%E3%83%A1-%E3%82%BC%E3%83%83%E3%82%BF%E3%82%A4-10-babymetal-budokan-live/1582402821?i=1582402823" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=GLvohMXgcBo" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0?si=f4393728a76046fe" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/us/album/under-the-bridge/945581828?i=945581840" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow BABYMETAL</h3>
+    <h3 align="center">Follow Red Hot Chili Peppers</h3>
     <p align="center">
-        <a href="https://x.com/BABYMETAL_JAPAN" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/babymetal_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@BABYMETAL" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/chilipeppers" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/chilipeppers/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@RedHotChiliPeppers" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

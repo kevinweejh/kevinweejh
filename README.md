@@ -58,7 +58,7 @@
         <img src="https://i.scdn.co/image/ab6761610000517483e2d0c9611f1fb6baafcb36" alt="YOASOBI Image" width="200"/>
     </p>
     <h2 align="center">Artist: <a href="https://www.yoasobi-music.jp/" target="_blank" rel="noopener noreferrer">YOASOBI</a></h2>
-    <h3 align="center">Song: 群青</h3>
+    <h3 align="center">Song: アイドル</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
@@ -69,9 +69,9 @@
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=ng08QQvjV0U" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk?si=fc2e73d4e5824cec" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E7%BE%A4%E9%9D%92/1528119626?i=1528119630" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=RzXTe-QfWTw" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt?si=6a6b5bdfdd1f4785" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/1679278166?i=1679278167" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
     <h3 align="center">Follow YOASOBI</h3>
     <p align="center">

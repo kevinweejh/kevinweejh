@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/8/86/Ano_Dec23.jpg/revision/latest/scale-to-width-down/1200?cb=20240117085608" alt="ano Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/7/7f/Naked_promo.jpeg/revision/latest?cb=20230323084039" alt="CHANMINA Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://ano-official.com/" target="_blank" rel="noopener noreferrer">ano</a></h2>
-    <h3 align="center">Song: スマイルあげない</h3>
+    <h2 align="center">Artist: <a href="https://chanmina.com/" target="_blank" rel="noopener noreferrer">CHANMINA</a></h2>
+    <h3 align="center">Song: Harenchi</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    ano
+    CHANMINA is Japanese-Korean artist whose music, you can immediately tell once you watch and listen to her, is a very unapologetically her. Being able to perfectly speak and perform in both Japanese and Korean definitely adds to her uniqueness as an artist.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=Jjzbr_73ifc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL?si=82b6961bb33047a9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%82%E3%81%92%E3%81%AA%E3%81%84/1691483288?i=1691483290" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://youtu.be/rRCUgDWq_5U?si=mIvrK5mjGFt15Rlk" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/43MJRQ7pzs0ZpDxwa8HBEk?si=024d333bcd954565" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/us/album/harenchi/1585848047?i=1585848051" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow ano</h3>
+    <h3 align="center">Follow CHANMINA</h3>
     <p align="center">
-        <a href="https://x.com/aNo2mass" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/a_n_o2mass/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@anoofficialchannel" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/CHANMINA1014" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/minachanxx/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UConh1BwKagscq7EAP2Vng-g" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

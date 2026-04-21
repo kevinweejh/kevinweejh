@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/7/7f/Naked_promo.jpeg/revision/latest?cb=20230323084039" alt="CHANMINA Image" width="200"/>
+        <img src="https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa685cfb0-24a5-4719-a41a-1071133ec81d.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1" alt="Vulfpeck Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://chanmina.com/" target="_blank" rel="noopener noreferrer">CHANMINA</a></h2>
-    <h3 align="center">Song: Biscuit</h3>
+    <h2 align="center">Artist: <a href="https://www.vulfpeck.com/" target="_blank" rel="noopener noreferrer">Vulfpeck</a></h2>
+    <h3 align="center">Song: Animal Spirits</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    CHANMINA is Japanese-Korean artist whose music, you can immediately tell once you watch and listen to her, is a very unapologetically her. Being able to perfectly speak and perform in both Japanese and Korean definitely adds to her uniqueness as an artist.
+    Release a silent album to fund an admission-free tour? Sell out MSG without a manager or label? Rotating roster of some of the most talented musicians? No rehearsals before the show, yet still delivering? What more can you ask for?
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=hkx4u4Irdos" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV?si=23ef3d7313b249e4" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/biscuit-single/1715476407" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=qTUnDV3MgVQ" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/2ZjJ20kWjdhqjzPMMG3QIo?si=2dcf424d16da4038" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/us/album/animal-spirits-live-at-madison-square-garden-feat-theo/1489229464?i=1489229934" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow CHANMINA</h3>
+    <h3 align="center">Follow Vulfpeck</h3>
     <p align="center">
-        <a href="https://x.com/CHANMINA1014" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/minachanxx/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UConh1BwKagscq7EAP2Vng-g" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/vulfpeck" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/vulfpeck/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@Vulf" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

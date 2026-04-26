@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/8/86/Ano_Dec23.jpg/revision/latest/scale-to-width-down/1200?cb=20240117085608" alt="ano Image" width="200"/>
+        <img src="https://yt3.googleusercontent.com/VfcJwelfOBmCXV4LNlMmgZKjVzP3jxIBPjYaOnfQK2kWnoU50SqbT9K9S9SteDXkVNmeQOj-PA=s900-c-k-c0x00ffffff-no-rj" alt="ステミレイツ Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://ano-official.com/" target="_blank" rel="noopener noreferrer">ano</a></h2>
-    <h3 align="center">Song: スマイルあげない</h3>
+    <h2 align="center">Artist: <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">ステミレイツ</a></h2>
+    <h3 align="center">Song: 追求</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    ano
+    Saxophone player in a rock band? Sign me up!
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=Jjzbr_73ifc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL?si=82b6961bb33047a9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%82%E3%81%92%E3%81%AA%E3%81%84/1691483288?i=1691483290" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=lfMVW-88zyc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/6IgNbBAG0ChnnZz3JnbNB3?si=c3db70bf6a2945b7" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E8%BF%BD%E6%B1%82/1676590436?i=1676590437" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow ano</h3>
+    <h3 align="center">Follow ステミレイツ</h3>
     <p align="center">
-        <a href="https://x.com/aNo2mass" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/a_n_o2mass/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@anoofficialchannel" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/stmltofficial" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/stmltytband/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://yt3.googleusercontent.com/nAeaDycSjYP1nXS4gfcj93eeTDXFPrrBWKLdhi0_xkXQjS3gXnHBOHJcDwVoQkDnW7_23qJwRg=s900-c-k-c0x00ffffff-no-rj" alt="乃紫 Image" width="200"/>
+        <img src="https://pbs.twimg.com/media/F8Ttqr9aAAA6hjX?format=jpg&name=large" alt="QWER Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://noa.fanpla.jp/" target="_blank" rel="noopener noreferrer">乃紫</a></h2>
-    <h3 align="center">Song: 先輩</h3>
+    <h2 align="center">Artist: <a href="https://kprofiles.com/qwer-members-profile/" target="_blank" rel="noopener noreferrer">QWER</a></h2>
+    <h3 align="center">Song: Discord</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Not much to say, other than I was plesantly surprised to hear 乃紫 (noa) playing while eating in a Sukiya somewhere in Shinjuku. Definitely an artist on my radar for new music.
+    QWER is a rising star in the pop-rock music scene in South Korea. Their roster is stacked with social media personalities and a former member of a Japanese idol group, but don't let that fool you. Their music is energetic and fun, and it is amazing to watch how quickly each of the members are honing their craft.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=xRtX0mZIQRs" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1141uIU9WDqLCjbIbet1eu?si=47c47fda7171493b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E5%85%88%E8%BC%A9/1702140626?i=1702140638" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://youtu.be/Ieb8IOiFfhk?t=220" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC?si=d36ec1b2e3784e64" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/kr/album/discord/1711740153?i=1711740155" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow 乃紫</h3>
+    <h3 align="center">Follow QWER</h3>
     <p align="center">
-        <a href="https://x.com/___aburasoba" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/noa_aburasoba/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@noa_aburasoba" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/official_QWER" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/qwerband_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@QWER_Band_official" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

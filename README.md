@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/e/e9/Conton_Candy.jpg/revision/latest/scale-to-width-down/1000?cb=20210725190649" alt="Conton Candy Image" width="200"/>
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Mori_Calliope.png" alt="Mori Calliope Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://lit.link/en/contoncandy" target="_blank" rel="noopener noreferrer">Conton Candy</a></h2>
-    <h3 align="center">Song: リップシンク</h3>
+    <h2 align="center">Artist: <a href="https://hololive.hololivepro.com/en/talents/mori-calliope/" target="_blank" rel="noopener noreferrer">Mori Calliope</a></h2>
+    <h3 align="center">Song: Overkill</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Conton Candy is a breath of fresh air within the Japanese Pop/Rock scene. Their music is catchy with a surprisingly energetic bass line. Having seen them live at MetRock 2024 in Tokyo, I am certified to say that their live performance (energy + audience interaction) is infectious.
+    Mori Calliope is a VTuber who spits fire. What impresses me the most is the way she almost effortlessly blends an aggressive, almost abrasive tone, with crystal clear vocals when it fits.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=3SFVqbCLxB8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1kyp3dQGHftpJRpRAoY94z?si=f2bb6d90cbd54f40" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%83%AA%E3%83%83%E3%83%97%E3%82%B7%E3%83%B3%E3%82%AF/1704849999?i=1704850207" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=J7tp_0lFI0I" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1UlQyJezbjrwRlC2fo3D3i?si=e21595b2739b4598" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/us/album/overkill/1730912918?i=1730912923" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Conton Candy</h3>
+    <h3 align="center">Follow Mori Calliope</h3>
     <p align="center">
-        <a href="https://x.com/Conton_Candy" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/contoncandy_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@ContonCandy" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/moricalliope" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

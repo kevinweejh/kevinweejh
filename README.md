@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://yt3.googleusercontent.com/VfcJwelfOBmCXV4LNlMmgZKjVzP3jxIBPjYaOnfQK2kWnoU50SqbT9K9S9SteDXkVNmeQOj-PA=s900-c-k-c0x00ffffff-no-rj" alt="ステミレイツ Image" width="200"/>
+        <img src="https://yt3.googleusercontent.com/nAeaDycSjYP1nXS4gfcj93eeTDXFPrrBWKLdhi0_xkXQjS3gXnHBOHJcDwVoQkDnW7_23qJwRg=s900-c-k-c0x00ffffff-no-rj" alt="乃紫 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">ステミレイツ</a></h2>
-    <h3 align="center">Song: 刺激</h3>
+    <h2 align="center">Artist: <a href="https://noa.fanpla.jp/" target="_blank" rel="noopener noreferrer">乃紫</a></h2>
+    <h3 align="center">Song: 初恋キラー</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Saxophone player in a rock band? Sign me up!
+    Not much to say, other than I was plesantly surprised to hear 乃紫 (noa) playing while eating in a Sukiya somewhere in Shinjuku. Definitely an artist on my radar for new music.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=-SnuqZJsguw" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/4dXTwQf5Ui1oiIEEv37ujw?si=784a9187671e4094" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E5%88%BA%E6%BF%80/1654707362?i=1654707364" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://youtu.be/BBVIxwazmkY?si=CEYrjfO2lDSiRV8y" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/0l9OsLo35t2HgSqLkJMT4G?si=b3f3866d048447f8" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E5%88%9D%E6%81%8B%E3%82%AD%E3%83%A9%E3%83%BC/1740947733?i=1740947970" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow ステミレイツ</h3>
+    <h3 align="center">Follow 乃紫</h3>
     <p align="center">
-        <a href="https://x.com/stmltofficial" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/stmltytband/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/___aburasoba" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/noa_aburasoba/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@noa_aburasoba" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

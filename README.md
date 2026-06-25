@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/7/7f/Naked_promo.jpeg/revision/latest?cb=20230323084039" alt="CHANMINA Image" width="200"/>
+        <img src="https://i.scdn.co/image/ab6761610000517483e2d0c9611f1fb6baafcb36" alt="YOASOBI Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://chanmina.com/" target="_blank" rel="noopener noreferrer">CHANMINA</a></h2>
-    <h3 align="center">Song: Biscuit</h3>
+    <h2 align="center">Artist: <a href="https://www.yoasobi-music.jp/" target="_blank" rel="noopener noreferrer">YOASOBI</a></h2>
+    <h3 align="center">Song: 群青</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    CHANMINA is Japanese-Korean artist whose music, you can immediately tell once you watch and listen to her, is a very unapologetically her. Being able to perfectly speak and perform in both Japanese and Korean definitely adds to her uniqueness as an artist.
+    YOASOBI is a Japanese pop duo that, in my opinion, has only released bangers since their formation in 2019. Their sound is unmistakable, extremely catchy, and simply infectious. Sincerely, I long for the day I get to see them live, to soak in the magic of the YOASOBI experience.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=hkx4u4Irdos" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV?si=23ef3d7313b249e4" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/biscuit-single/1715476407" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=ng08QQvjV0U" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk?si=fc2e73d4e5824cec" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E7%BE%A4%E9%9D%92/1528119626?i=1528119630" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow CHANMINA</h3>
+    <h3 align="center">Follow YOASOBI</h3>
     <p align="center">
-        <a href="https://x.com/CHANMINA1014" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/minachanxx/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UConh1BwKagscq7EAP2Vng-g" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/YOASOBI_staff" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/yoasobi_staff_/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@Ayase_YOASOBI" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

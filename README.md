@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wixstatic.com/media/66144e_af4ab0adf9634d01b2864e1ae2acb185~mv2.jpg/v1/crop/x_0,y_33,w_3000,h_2935/fill/w_459,h_449,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%5B%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%5D%20%EC%9C%A0%EB%9D%BC%20(youra)_Rawww.jpg" alt="유라 Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/6/63/Higuchi_Ai.jpg/revision/latest?cb=20220126031000" alt="Higuchi Ai Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.munhwain.kr/youra" target="_blank" rel="noopener noreferrer">유라</a></h2>
-    <h3 align="center">Song: Rawww</h3>
+    <h2 align="center">Artist: <a href="https://www.higuchiai.com/" target="_blank" rel="noopener noreferrer">Higuchi Ai</a></h2>
+    <h3 align="center">Song: 悪魔の子</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    유라 (youra) is a Korean singer-songwriter whose ability to seamlessly insert her voice into songs from a wide range of genres makes me extremely curious and excited whenever she releases something new. For the musically-curious: Her work with Korean trio Mandong straddles on the border of jazz and psychedelic rock - absolute masterpiece.
+    Higuchi Ai's phenomenal performance on the 7th ED for anime Attack on Titan cemented her place as one of the greats. The pain that she conveys in this performance gives me the chills, every single time.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=i7uuvqTq9Bo" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K?si=86c92bd5588743b4" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/kr/album/rawww/1594541806?i=1594541810" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=eLBhEn8PwA8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y?si=a972ac36e7ea487d" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E6%82%AA%E9%AD%94%E3%81%AE%E5%AD%90/1601391183?i=1601391184" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow 유라</h3>
+    <h3 align="center">Follow Higuchi Ai</h3>
     <p align="center">
-        <a href="" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/you.ra/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCrgmcWsu4pBRmEQz1l5cklQ" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/HiguchiAi" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/higuchiai.1128/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@AiHiguchiOfficial" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

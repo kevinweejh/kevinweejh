@@ -58,7 +58,7 @@
         <img src="https://static.wikia.nocookie.net/jpop/images/7/7f/Naked_promo.jpeg/revision/latest?cb=20230323084039" alt="CHANMINA Image" width="200"/>
     </p>
     <h2 align="center">Artist: <a href="https://chanmina.com/" target="_blank" rel="noopener noreferrer">CHANMINA</a></h2>
-    <h3 align="center">Song: Harenchi</h3>
+    <h3 align="center">Song: Biscuit</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
@@ -69,9 +69,9 @@
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://youtu.be/rRCUgDWq_5U?si=mIvrK5mjGFt15Rlk" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/43MJRQ7pzs0ZpDxwa8HBEk?si=024d333bcd954565" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/harenchi/1585848047?i=1585848051" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=hkx4u4Irdos" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV?si=23ef3d7313b249e4" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/us/album/biscuit-single/1715476407" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
     <h3 align="center">Follow CHANMINA</h3>
     <p align="center">

@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://images.lifestyleasia.com/wp-content/uploads/sites/2/2024/03/15140557/japanese-singer-lisa-hong-kong-concert-2024-1600x900.jpg" alt="LiSA Image" width="200"/>
+        <img src="https://yt3.googleusercontent.com/VfcJwelfOBmCXV4LNlMmgZKjVzP3jxIBPjYaOnfQK2kWnoU50SqbT9K9S9SteDXkVNmeQOj-PA=s900-c-k-c0x00ffffff-no-rj" alt="ステミレイツ Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.lxixsxa.com/" target="_blank" rel="noopener noreferrer">LiSA</a></h2>
-    <h3 align="center">Song: Shouted Serenade</h3>
+    <h2 align="center">Artist: <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">ステミレイツ</a></h2>
+    <h3 align="center">Song: 追求</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    With Demon Slayer, Sword Art Online under her belt, LiSA is considered by many to be the queen of anime openings. Rightfully so, her unmistakably powerful, and at times deeply emotional, vocals has gone on to inspire many Japanese artists in the years since she came onto the scene. Her music is truly a gift to the community.
+    Saxophone player in a rock band? Sign me up!
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=fR7e0N1UkRI" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov?si=8e1b06d961a44943" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/shouted-serenade/1737736346?i=1737736349" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=lfMVW-88zyc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/6IgNbBAG0ChnnZz3JnbNB3?si=c3db70bf6a2945b7" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E8%BF%BD%E6%B1%82/1676590436?i=1676590437" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow LiSA</h3>
+    <h3 align="center">Follow ステミレイツ</h3>
     <p align="center">
-        <a href="https://twitter.com/LiSA_OLiVE" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/xlisa_olivex" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/stmltofficial" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/stmltytband/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

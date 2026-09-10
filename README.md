@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/7/7f/Naked_promo.jpeg/revision/latest?cb=20230323084039" alt="CHANMINA Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/6/63/Higuchi_Ai.jpg/revision/latest?cb=20220126031000" alt="Higuchi Ai Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://chanmina.com/" target="_blank" rel="noopener noreferrer">CHANMINA</a></h2>
-    <h3 align="center">Song: Biscuit</h3>
+    <h2 align="center">Artist: <a href="https://www.higuchiai.com/" target="_blank" rel="noopener noreferrer">Higuchi Ai</a></h2>
+    <h3 align="center">Song: 悪魔の子</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    CHANMINA is Japanese-Korean artist whose music, you can immediately tell once you watch and listen to her, is a very unapologetically her. Being able to perfectly speak and perform in both Japanese and Korean definitely adds to her uniqueness as an artist.
+    Higuchi Ai's phenomenal performance on the 7th ED for anime Attack on Titan cemented her place as one of the greats. The pain that she conveys in this performance gives me the chills, every single time.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=hkx4u4Irdos" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV?si=23ef3d7313b249e4" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/biscuit-single/1715476407" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=eLBhEn8PwA8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y?si=a972ac36e7ea487d" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E6%82%AA%E9%AD%94%E3%81%AE%E5%AD%90/1601391183?i=1601391184" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow CHANMINA</h3>
+    <h3 align="center">Follow Higuchi Ai</h3>
     <p align="center">
-        <a href="https://x.com/CHANMINA1014" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/minachanxx/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UConh1BwKagscq7EAP2Vng-g" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/HiguchiAi" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/higuchiai.1128/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@AiHiguchiOfficial" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

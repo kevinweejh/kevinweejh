@@ -55,29 +55,29 @@
   <tr>
     <td>
     <p align="center">
-        <img src="https://lh3.googleusercontent.com/miHtbZKrFwKTwxA0r7gky4MJPBbPdEcC6U_uU3E3NYjGcfY4Ki7M6qbPcnnnBuY2TImDFBQKsxVNPXpYlA=w544-h544-l90-rj" alt="FREDERIC Image" width="200"/>
+        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCYod9S7n_rsKfGgQsqZvboYbzDADqH6iaEObEaC4rUEIw7zEA" alt="Toaka Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://frederic-official.com/" target="_blank" rel="noopener noreferrer">FREDERIC</a></h2>
-    <h3 align="center">Song: oddloop</h3>
+    <h2 align="center">Artist: <a href="https://billboardphilippines.com/music/features/get-to-know-toaka-6-facts-about-radwimps-special-guest-for-their-first-manila-concert-this-may-2024/" target="_blank" rel="noopener noreferrer">Toaka</a></h2>
+    <h3 align="center">Song: Suzume</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    When an artist begins a performance with 'This song was written 9 years ago. We're going to perform the song that changed our lives.', you better sit down and listen well.
+    I am positively certain that Toaka's voice in the song 'Suzume' contributed to a non-negligible portion of box office revenue for the film of the same name. Amazing movie, by the way.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=pXyGPPsUTeU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/5hQll2t2rfpVARhVjDVOYJ?si=c943ed44497d42e2" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%AA%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97/916163967?i=916163980" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://youtu.be/UmkxTv3sHEc?t=61" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5?si=8513707619654b22" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E3%81%99%E3%81%9A%E3%82%81-feat-%E5%8D%81%E6%98%8E/1646939421?i=1646939428" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow FREDERIC</h3>
+    <h3 align="center">Follow Toaka</h3>
     <p align="center">
-        <a href="https://x.com/frederitter" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/frederigram/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCeoCO4_u1DdJBwyil66IsNw" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/toaka_desu" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/toaka_desu/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCx5hlI4urmu35mHlNFw2UFw" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

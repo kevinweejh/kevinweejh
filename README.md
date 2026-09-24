@@ -4,33 +4,30 @@
 </p>
 
 <!--Basic Info Section Heading-->
-## Welcome to my profile 👋
+## Hi, I'm Kevin 👋
 
 <!--Basic Info Section Body-->
-*Web Accessibility Evangelist (Building the Web for All)*
+Frontend dev making a deliberate move into *application security*
 <br /> 
-<p align="left">I am a Frontend Developer with a strong emphasis on React and a passion for creating accessible web applications. I am dedicated to democratizing the web for all users. </p>
+<p align="left">I started by building for the web, and am now focused on helping devs understand and prevent real-world vulnerabilities.</p>
 
-- 📚 Lifelong learner. 
-- 🔧 Currently expanding my knowledge in backend concepts to enhance the cohesiveness of web applications. 
-- 🔄 Strong believer in the endless pursuit of staying up-to-date with the constant evolution of the web. 
-- 🌐 Explore my work and projects on my Portfolio. 
+### What I'm working on
+- **OWASP Visualised series** — interactive, educational sites that show what the most critical vulnerabilities actually look like in code, the browser, and others
+- Practical tools that sit at the intersection of frontend craft and security awareness
 
-<!--Languages & Tools Section Heading-->       
-<h2 align="center">Languages & Tools</h2> 
+### Currently
+- Deepening AppSec knowledge and hands-on skills, by taking the [Cybersecurity Career Kickstart+ course](https://www.centreforcybersecurity.com/courses/career-kickstart-programme)  
+- Holding the ISC2 Certified in Cybersecurity (CC)
+- Still writing frontend code, now with a stronger security lens
 
-<!--Languages & Tools Section Body-->   
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,materialui,vite,webpack,babel,vitest,jest,nodejs,express,npm,yarn,git,figma,&perline=9" />
-  </a>
-</p>
+### Background
+- Engineering graduate (SUTD)
+- Experience building production web applications
+- Strong interest in making complex technical topics approachable
 
-<!--GitHub Stats Section Heading-->       
-<h2 align="center">My Stats</h2> 
-
-<!--GitHub Stats Section Body-->   
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kevinweejh&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p>
+### Connect
+- Portfolio: [codebykevin.dev](https://codebykevin.dev)
+- LinkedIn: [linkedin.com/in/kevinweejh](https://www.linkedin.com/in/kevinweejh)
 
 <!--Contact Section Heading--> 
 <h2 align="center">🤝 Connect With Me 🤝 </h2>

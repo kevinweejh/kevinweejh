@@ -52,29 +52,29 @@ Frontend dev making a deliberate move into *application security*
   <tr>
     <td>
     <p align="center">
-        <img src="https://www.esplanade.com/-/media/Esplanade/Images/Whats-On/festival-and-series/2024/mosaic/hitsujibungaku-01.ashx?rev=aea5224b98614c5c9d47118614481745&hash=DEB7A175DB44D5FBCF82C4888F2BE932" alt="羊文学 Image" width="200"/>
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Mori_Calliope.png" alt="Mori Calliope Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.hitsujibungaku.info/" target="_blank" rel="noopener noreferrer">羊文学</a></h2>
-    <h3 align="center">Song: Addiction</h3>
+    <h2 align="center">Artist: <a href="https://hololive.hololivepro.com/en/talents/mori-calliope/" target="_blank" rel="noopener noreferrer">Mori Calliope</a></h2>
+    <h3 align="center">Song: Overkill</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    羊文学 (Hitsujibungaku) entered my life with their performance for the 2nd ED for the Shibuya Incident Arc of Jujutsu Kaisen S2. Later, I saw them perform at MetRock 2024 in Tokyo, and it immediately became extremely clear to me that this trio is truly something special. 
+    Mori Calliope is a VTuber who spits fire. What impresses me the most is the way she almost effortlessly blends an aggressive, almost abrasive tone, with crystal clear vocals when it fits.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=AteWl40-UP8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/4OqMFjnROd98SGfvR2lOdu?si=711cb2857d404832" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/addiction/1714742640?i=1714742650" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=J7tp_0lFI0I" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1UlQyJezbjrwRlC2fo3D3i?si=e21595b2739b4598" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/us/album/overkill/1730912918?i=1730912923" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow 羊文学</h3>
+    <h3 align="center">Follow Mori Calliope</h3>
     <p align="center">
-        <a href="https://x.com/Hitsujibungaku" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/hitsujibungaku/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCm0qsuAG6RN2FYKZ_r1nPyg" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/moricalliope" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

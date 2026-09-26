@@ -52,29 +52,29 @@ Frontend dev making a deliberate move into *application security*
   <tr>
     <td>
     <p align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Mori_Calliope.png" alt="Mori Calliope Image" width="200"/>
+        <img src="https://i.scdn.co/image/ab6761610000517483e2d0c9611f1fb6baafcb36" alt="YOASOBI Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://hololive.hololivepro.com/en/talents/mori-calliope/" target="_blank" rel="noopener noreferrer">Mori Calliope</a></h2>
-    <h3 align="center">Song: Overkill</h3>
+    <h2 align="center">Artist: <a href="https://www.yoasobi-music.jp/" target="_blank" rel="noopener noreferrer">YOASOBI</a></h2>
+    <h3 align="center">Song: 怪物</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Mori Calliope is a VTuber who spits fire. What impresses me the most is the way she almost effortlessly blends an aggressive, almost abrasive tone, with crystal clear vocals when it fits.
+    YOASOBI is a Japanese pop duo that, in my opinion, has only released bangers since their formation in 2019. Their sound is unmistakable, extremely catchy, and simply infectious. Sincerely, I long for the day I get to see them live, to soak in the magic of the YOASOBI experience.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=J7tp_0lFI0I" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1UlQyJezbjrwRlC2fo3D3i?si=e21595b2739b4598" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/overkill/1730912918?i=1730912923" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=MCniEJSh12U" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi?si=d72deae9830f466b" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E6%80%AA%E7%89%A9/1544083976?i=1544083979" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Mori Calliope</h3>
+    <h3 align="center">Follow YOASOBI</h3>
     <p align="center">
-        <a href="https://twitter.com/moricalliope" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/YOASOBI_staff" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/yoasobi_staff_/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@Ayase_YOASOBI" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

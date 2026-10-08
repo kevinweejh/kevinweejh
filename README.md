@@ -52,29 +52,29 @@ Frontend dev making a deliberate move into *application security*
   <tr>
     <td>
     <p align="center">
-        <img src="https://i8.amplience.net/i/naras/red-hot-chili-peppers_MI0005438739-MN0000883318" alt="Red Hot Chili Peppers Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/6/63/Higuchi_Ai.jpg/revision/latest?cb=20220126031000" alt="Higuchi Ai Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://redhotchilipeppers.com/" target="_blank" rel="noopener noreferrer">Red Hot Chili Peppers</a></h2>
-    <h3 align="center">Song: By The Way</h3>
+    <h2 align="center">Artist: <a href="https://www.higuchiai.com/" target="_blank" rel="noopener noreferrer">Higuchi Ai</a></h2>
+    <h3 align="center">Song: 永遠</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    The Red Hot Chili Peppers is THE band to watch live, it is well and truly a transcendental experience. Their strongest suit by a wide margin is their jams and improvisation that ensure no two performances of a song are ever the same.
+    Higuchi Ai first came onto my radar when she performed the 7th ED for anime Attack on Titan. Whether it is a longing sadness or an exhilarating rush, her ability to imbue emotions in her voice is absolutely incredible, you'll have to hear it for yourself to understand.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=Gtmnt-Ol1UY" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe?si=ac9581e0442f49be" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/by-the-way/945578420?i=945578421" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=AkXOF_lr2_M" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/0JtH3WikNHPpzQwoLO9t5I?si=aad226ae836441fc" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E6%B0%B8%E9%81%A0/1390414655?i=1390414657" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Red Hot Chili Peppers</h3>
+    <h3 align="center">Follow Higuchi Ai</h3>
     <p align="center">
-        <a href="https://x.com/chilipeppers" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/chilipeppers/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@RedHotChiliPeppers" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/HiguchiAi" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/higuchiai.1128/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@AiHiguchiOfficial" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

@@ -52,29 +52,29 @@ Frontend dev making a deliberate move into *application security*
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/8/86/Ano_Dec23.jpg/revision/latest/scale-to-width-down/1200?cb=20240117085608" alt="ano Image" width="200"/>
+        <img src="https://cdns-images.dzcdn.net/images/artist/61bcbf8296b1669499064406c534d39d/500x500.jpg" alt="ずっと真夜中でいいのに。 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://ano-official.com/" target="_blank" rel="noopener noreferrer">ano</a></h2>
-    <h3 align="center">Song: スマイルあげない</h3>
+    <h2 align="center">Artist: <a href="https://zutomayo.net/" target="_blank" rel="noopener noreferrer">ずっと真夜中でいいのに。</a></h2>
+    <h3 align="center">Song: 勘冴えて悔しいわ</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    ano
+    ずっと真夜中でいいのに。(ZUTOMAYO) is a secretive band that conceals their identities. However, it's quite impossible to conceal the overflowing talent this group oozes with. Their songs are characterised by punchy basslines, punctuated with game noises, and vocals take make you feel like they're running around you in circles really quickly.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=Jjzbr_73ifc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL?si=82b6961bb33047a9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%82%E3%81%92%E3%81%AA%E3%81%84/1691483288?i=1691483290" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=4QePrv24TBU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp?si=9052ce5654064bc3" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E5%8B%98%E5%86%B4%E3%81%88%E3%81%A6%E6%82%94%E3%81%97%E3%81%84%E3%82%8F/1481464093?i=1481464101" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow ano</h3>
+    <h3 align="center">Follow ずっと真夜中でいいのに。</h3>
     <p align="center">
-        <a href="https://x.com/aNo2mass" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/a_n_o2mass/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@anoofficialchannel" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/zutomayo" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/zutomayo/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@ZUTOMAYO" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

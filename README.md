@@ -52,29 +52,29 @@ Frontend dev making a deliberate move into *application security*
   <tr>
     <td>
     <p align="center">
-        <img src="https://static.wikia.nocookie.net/jpop/images/e/e9/Conton_Candy.jpg/revision/latest/scale-to-width-down/1000?cb=20210725190649" alt="Conton Candy Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/7/7f/Naked_promo.jpeg/revision/latest?cb=20230323084039" alt="CHANMINA Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://lit.link/en/contoncandy" target="_blank" rel="noopener noreferrer">Conton Candy</a></h2>
-    <h3 align="center">Song: ロングスカートは靡いて</h3>
+    <h2 align="center">Artist: <a href="https://chanmina.com/" target="_blank" rel="noopener noreferrer">CHANMINA</a></h2>
+    <h3 align="center">Song: Harenchi</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Conton Candy is a breath of fresh air within the Japanese Pop/Rock scene. Their music is catchy with a surprisingly energetic bass line. Having seen them live at MetRock 2024 in Tokyo, I am certified to say that their live performance (energy + audience interaction) is infectious.
+    CHANMINA is Japanese-Korean artist whose music, you can immediately tell once you watch and listen to her, is a very unapologetically her. Being able to perfectly speak and perform in both Japanese and Korean definitely adds to her uniqueness as an artist.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=xF4TPhya8n8" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/3JuyjD9fWqbkUWv19uBZyP?si=50865a7310424aa9" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88%E3%81%AF%E9%9D%A1%E3%81%84%E3%81%A6/1588904611?i=1588904921" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://youtu.be/rRCUgDWq_5U?si=mIvrK5mjGFt15Rlk" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/43MJRQ7pzs0ZpDxwa8HBEk?si=024d333bcd954565" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/us/album/harenchi/1585848047?i=1585848051" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Conton Candy</h3>
+    <h3 align="center">Follow CHANMINA</h3>
     <p align="center">
-        <a href="https://x.com/Conton_Candy" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/contoncandy_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@ContonCandy" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/CHANMINA1014" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/minachanxx/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UConh1BwKagscq7EAP2Vng-g" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

@@ -52,29 +52,29 @@ Frontend dev making a deliberate move into *application security*
   <tr>
     <td>
     <p align="center">
-        <img src="https://i.scdn.co/image/ab6761610000517483e2d0c9611f1fb6baafcb36" alt="YOASOBI Image" width="200"/>
+        <img src="https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa685cfb0-24a5-4719-a41a-1071133ec81d.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1" alt="Vulfpeck Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.yoasobi-music.jp/" target="_blank" rel="noopener noreferrer">YOASOBI</a></h2>
-    <h3 align="center">Song: アイドル</h3>
+    <h2 align="center">Artist: <a href="https://www.vulfpeck.com/" target="_blank" rel="noopener noreferrer">Vulfpeck</a></h2>
+    <h3 align="center">Song: Dean Town</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    YOASOBI is a Japanese pop duo that, in my opinion, has only released bangers since their formation in 2019. Their sound is unmistakable, extremely catchy, and simply infectious. Sincerely, I long for the day I get to see them live, to soak in the magic of the YOASOBI experience.
+    Release a silent album to fund an admission-free tour? Sell out MSG without a manager or label? Rotating roster of some of the most talented musicians? No rehearsals before the show, yet still delivering? What more can you ask for?
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=RzXTe-QfWTw" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt?si=6a6b5bdfdd1f4785" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/1679278166?i=1679278167" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=rhxQoDlt2AU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/7MNhvUp3m9ZZLVnpiRtUjJ?si=715417f1662249fb" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/us/album/dean-town-live-at-madison-square-garden/1489229464?i=1489231194" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow YOASOBI</h3>
+    <h3 align="center">Follow Vulfpeck</h3>
     <p align="center">
-        <a href="https://twitter.com/YOASOBI_staff" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/yoasobi_staff_/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@Ayase_YOASOBI" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/vulfpeck" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/vulfpeck/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@Vulf" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

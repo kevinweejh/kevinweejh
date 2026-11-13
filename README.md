@@ -52,29 +52,29 @@ Frontend dev making a deliberate move into *application security*
   <tr>
     <td>
     <p align="center">
-        <img src="https://i.scdn.co/image/ab6761610000517483e2d0c9611f1fb6baafcb36" alt="YOASOBI Image" width="200"/>
+        <img src="https://yt3.googleusercontent.com/VfcJwelfOBmCXV4LNlMmgZKjVzP3jxIBPjYaOnfQK2kWnoU50SqbT9K9S9SteDXkVNmeQOj-PA=s900-c-k-c0x00ffffff-no-rj" alt="ステミレイツ Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.yoasobi-music.jp/" target="_blank" rel="noopener noreferrer">YOASOBI</a></h2>
-    <h3 align="center">Song: 群青</h3>
+    <h2 align="center">Artist: <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">ステミレイツ</a></h2>
+    <h3 align="center">Song: 追求</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    YOASOBI is a Japanese pop duo that, in my opinion, has only released bangers since their formation in 2019. Their sound is unmistakable, extremely catchy, and simply infectious. Sincerely, I long for the day I get to see them live, to soak in the magic of the YOASOBI experience.
+    Saxophone player in a rock band? Sign me up!
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=ng08QQvjV0U" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk?si=fc2e73d4e5824cec" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E7%BE%A4%E9%9D%92/1528119626?i=1528119630" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=lfMVW-88zyc" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/6IgNbBAG0ChnnZz3JnbNB3?si=c3db70bf6a2945b7" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/%E8%BF%BD%E6%B1%82/1676590436?i=1676590437" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow YOASOBI</h3>
+    <h3 align="center">Follow ステミレイツ</h3>
     <p align="center">
-        <a href="https://twitter.com/YOASOBI_staff" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/yoasobi_staff_/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@Ayase_YOASOBI" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/stmltofficial" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/stmltytband/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCVVHUuwTkomWfjE9hJicoGQ" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

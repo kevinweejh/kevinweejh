@@ -52,29 +52,29 @@ Frontend dev making a deliberate move into *application security*
   <tr>
     <td>
     <p align="center">
-        <img src="https://lh3.googleusercontent.com/miHtbZKrFwKTwxA0r7gky4MJPBbPdEcC6U_uU3E3NYjGcfY4Ki7M6qbPcnnnBuY2TImDFBQKsxVNPXpYlA=w544-h544-l90-rj" alt="FREDERIC Image" width="200"/>
+        <img src="https://static.wikia.nocookie.net/jpop/images/2/2e/Ryokuoushoku-2023-03.jpg/revision/latest?cb=20230329213050" alt="緑黄色社会 Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://frederic-official.com/" target="_blank" rel="noopener noreferrer">FREDERIC</a></h2>
-    <h3 align="center">Song: oddloop</h3>
+    <h2 align="center">Artist: <a href="https://www.ryokushaka.com/" target="_blank" rel="noopener noreferrer">緑黄色社会</a></h2>
+    <h3 align="center">Song: merry-go-round</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    When an artist begins a performance with 'This song was written 9 years ago. We're going to perform the song that changed our lives.', you better sit down and listen well.
+    Everything about this band is just peak musicianship, the perfect balance of vocals, keyboards, guitar and bass that is written and performed scarily well together. I feel insanely blessed to have had the chance to see them live.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=pXyGPPsUTeU" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/5hQll2t2rfpVARhVjDVOYJ?si=c943ed44497d42e2" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/jp/album/%E3%82%AA%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97/916163967?i=916163980" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=Lf4EAHI534w" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/56kt9vPQB4ghnVMUBYedwN?si=633b5e53c4934d2f" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/jp/album/merry-go-round/1600658811?i=1600659251" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow FREDERIC</h3>
+    <h3 align="center">Follow 緑黄色社会</h3>
     <p align="center">
-        <a href="https://x.com/frederitter" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/frederigram/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/channel/UCeoCO4_u1DdJBwyil66IsNw" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://x.com/ryokushaka" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="https://www.instagram.com/ryokushaka_official/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/@ryokuoushokushakai" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>

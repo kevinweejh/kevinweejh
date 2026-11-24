@@ -52,29 +52,29 @@ Frontend dev making a deliberate move into *application security*
   <tr>
     <td>
     <p align="center">
-        <img src="https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa685cfb0-24a5-4719-a41a-1071133ec81d.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1" alt="Vulfpeck Image" width="200"/>
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Mori_Calliope.png" alt="Mori Calliope Image" width="200"/>
     </p>
-    <h2 align="center">Artist: <a href="https://www.vulfpeck.com/" target="_blank" rel="noopener noreferrer">Vulfpeck</a></h2>
-    <h3 align="center">Song: Animal Spirits</h3>
+    <h2 align="center">Artist: <a href="https://hololive.hololivepro.com/en/talents/mori-calliope/" target="_blank" rel="noopener noreferrer">Mori Calliope</a></h2>
+    <h3 align="center">Song: Overkill</h3>
     <hr>
     <details>
     <summary align="center">Tell Me More</summary>
     <br>
     <h3 align="center">Why I Love This Artist</h3>
     <p align="center">
-    Release a silent album to fund an admission-free tour? Sell out MSG without a manager or label? Rotating roster of some of the most talented musicians? No rehearsals before the show, yet still delivering? What more can you ask for?
+    Mori Calliope is a VTuber who spits fire. What impresses me the most is the way she almost effortlessly blends an aggressive, almost abrasive tone, with crystal clear vocals when it fits.
     </p>
     <h3 align="center">Listen to the Song</h3>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=qTUnDV3MgVQ" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://open.spotify.com/track/2ZjJ20kWjdhqjzPMMG3QIo?si=2dcf424d16da4038" target="_blank" rel="noopener noreferrer">Spotify</a> | 
-        <a href="https://music.apple.com/us/album/animal-spirits-live-at-madison-square-garden-feat-theo/1489229464?i=1489229934" target="_blank" rel="noopener noreferrer">Apple Music</a> 
+        <a href="https://www.youtube.com/watch?v=J7tp_0lFI0I" target="_blank" rel="noopener noreferrer">YouTube</a> | 
+        <a href="https://open.spotify.com/track/1UlQyJezbjrwRlC2fo3D3i?si=e21595b2739b4598" target="_blank" rel="noopener noreferrer">Spotify</a> | 
+        <a href="https://music.apple.com/us/album/overkill/1730912918?i=1730912923" target="_blank" rel="noopener noreferrer">Apple Music</a> 
     </p>
-    <h3 align="center">Follow Vulfpeck</h3>
+    <h3 align="center">Follow Mori Calliope</h3>
     <p align="center">
-        <a href="https://x.com/vulfpeck" target="_blank" rel="noopener noreferrer">X</a> | 
-        <a href="https://www.instagram.com/vulfpeck/" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.youtube.com/@Vulf" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://twitter.com/moricalliope" target="_blank" rel="noopener noreferrer">X</a> | 
+        <a href="" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+        <a href="https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg" target="_blank" rel="noopener noreferrer">YouTube</a>
     </p>
     </details>
 </td>
